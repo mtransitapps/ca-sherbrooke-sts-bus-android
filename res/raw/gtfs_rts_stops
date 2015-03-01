@@ -1,0 +1,1478 @@
+1,'1','Station Du Dépôt',45.401387,-71.889063
+2,'2','Pont Aylmer',45.402473,-71.887790
+5,'5','Bowen Sud / Johnson',45.400024,-71.881555
+6,'6','Bowen Sud (CHUS - Hôtel-Dieu)',45.398820,-71.880470
+7,'7','École De La Montée - Pavillon St-François',45.396566,-71.878515
+12,'12','Aubry / Caen',45.390384,-71.865086
+16,'16','Lavigerie / Bowen Sud',45.387921,-71.859305
+18,'18','Bowen Sud / Aubry',45.387616,-71.864496
+24,'24','Bowen Sud / Woodward',45.397204,-71.878842
+25,'25','Bowen Sud (CHUS - Hôtel-Dieu)',45.398577,-71.880040
+26,'26','Bowen Sud / Chalifoux',45.400920,-71.882206
+28,'28','St-François Nord / King Est',45.403545,-71.886096
+34,'34','Portland / Belvédère Nord',45.403279,-71.900872
+36,'36','Carrefour De L''Estrie (Archambault)',45.402345,-71.956338
+37,'37','Prospect / Queen-Victoria',45.408525,-71.901397
+38,'38','Prospect / London',45.408971,-71.903459
+39,'39','Prospect / Victoria',45.409285,-71.905788
+40,'40','Prospect / Ontario',45.409266,-71.907543
+41,'41','Prospect / Vimy',45.409260,-71.910268
+42,'42','Prospect / Argyll',45.409285,-71.913131
+43,'43','Prospect / Boisjoli',45.409336,-71.915686
+44,'44','Prospect / Malouin',45.409355,-71.917312
+45,'45','Prospect / Passage Chambly',45.408972,-71.920323
+46,'46','Prospect / Bouchette',45.409036,-71.925113
+47,'47','Prospect / Paul-Desruisseaux',45.409045,-71.930774
+48,'48','Prospect / Duvernay',45.410823,-71.936988
+54,'54','Plateau St-Joseph',45.418354,-71.965602
+56,'56','École Mitchell-Montcalm - Pavillon Montcalm',45.403630,-71.923832
+57,'57','Portland / Wood',45.403591,-71.920843
+58,'58','Jacques-Cartier Nord / Portland',45.404088,-71.918452
+59,'59','Jacques-Cartier Nord / Malouin',45.406697,-71.918413
+60,'60','Prospect / Jacques-Cartier',45.408528,-71.918371
+62,'62','Prospect / Argyll',45.409191,-71.913307
+63,'63','Prospect / Vimy',45.409187,-71.910713
+64,'64','Prospect / Ontario',45.409142,-71.907868
+65,'65','Prospect / Victoria',45.409165,-71.905975
+66,'66','Prospect / London',45.408844,-71.903332
+67,'67','Prospect / Queen-Victoria',45.408739,-71.901662
+69,'69','École Mitchell-Montcalm - Pavillon Mitchell',45.404879,-71.901745
+70,'70','Portland / Belvédère Nord',45.402902,-71.900712
+78,'78','Wellington Sud / Aberdeen',45.396720,-71.887684
+79,'79','Viaduc Galt Ouest',45.393702,-71.885930
+80,'80','Wellington Sud / Richelieu',45.391966,-71.884761
+81,'81','Wellington Sud / Côte De L''Acadie',45.389420,-71.884029
+82,'82','Wellington Sud (No.1446)',45.386016,-71.881347
+83,'83','Queen (No.323)',45.379057,-71.869367
+84,'84','Wellington Sud (No.1700)',45.381055,-71.871849
+85,'85','Queen (No.314)',45.378152,-71.867609
+86,'86','Queen / Convent',45.377400,-71.865245
+87,'87','Queen / Charlotte',45.374117,-71.861066
+89,'89','Queen / Academy',45.371153,-71.858470
+90,'90','Queen (No.172)',45.369172,-71.856900
+91,'91','Queen / College',45.367005,-71.856661
+92,'92','College / Little Forks',45.366075,-71.852759
+93,'93','Université Bishop''S / Collège Champlain',45.366406,-71.847997
+94,'94','College / Little Forks',45.366247,-71.853083
+95,'95','College / Queen',45.366324,-71.857238
+96,'96','College / Parkdale',45.366520,-71.859943
+97,'97','College / Lorne',45.366575,-71.863577
+103,'103','Queen / College',45.366900,-71.856441
+104,'104','Queen (No.172)',45.369297,-71.856723
+106,'106','Queen / John-Wilson',45.372227,-71.859173
+107,'107','Queen / Charlotte',45.373976,-71.860705
+109,'109','Queen (No.314)',45.378274,-71.867472
+110,'110','Wellington Sud (No.1700)',45.381171,-71.871827
+112,'112','Wellington Sud (No.1446)',45.386063,-71.881184
+113,'113','Wellington Sud / Côte De L''Acadie',45.389565,-71.883829
+114,'114','Wellington Sud / Richelieu',45.392220,-71.884728
+115,'115','Viaduc / Galt Ouest',45.393997,-71.885921
+116,'116','Wellington Sud / Aberdeen',45.396901,-71.887560
+119,'119','Musée Des Beaux-Arts De Sherbrooke',45.405746,-71.894743
+120,'120','Parc James-S.-Mitchell',45.407136,-71.896926
+121,'121','Moore (No.361)',45.406065,-71.899338
+122,'122','Portland / Belvédère Nord',45.403608,-71.903131
+124,'124','Parc Du Domaine-Howard',45.403662,-71.908369
+125,'125','Serres Du Parc Du Domaine-Howard',45.403668,-71.910450
+129,'129','Prospect / Ontario',45.409417,-71.907633
+130,'130','École Ste-Anne',45.411548,-71.908104
+131,'131','Ontario / Leclerc',45.414095,-71.909341
+132,'132','Ontario / Beckett',45.416232,-71.910326
+133,'133','Ontario / Sables',45.419154,-71.911737
+134,'134','Simard / Sables',45.419525,-71.913300
+135,'135','Simard (No.1561)',45.422088,-71.914141
+136,'136','Simard / Bellefleur',45.424358,-71.914117
+137,'137','Simard (No.1620)',45.425969,-71.916617
+138,'138','Malouin / Simard',45.425250,-71.917568
+139,'139','Malouin / Anjou',45.423454,-71.917415
+140,'140','École Hélène-Boullé',45.421187,-71.917394
+141,'141','Malouin / Lachance',45.419493,-71.917435
+142,'142','Malouin / Loire',45.417754,-71.917326
+143,'143','Malouin / Beckett',45.416692,-71.916596
+144,'144','Beckett / Rochefoucauld',45.416922,-71.921431
+145,'145','Beckett / Vermont',45.416917,-71.924091
+149,'149','Beckett / Vermont',45.416819,-71.924465
+154,'154','Jacques-Cartier Nord / Malouin',45.406646,-71.918625
+155,'155','Jacques-Cartier Nord / Portland',45.403978,-71.918700
+156,'156','Jacques-Cartier Nord / Albert-Skinner',45.401345,-71.918766
+157,'157','Jacques-Cartier / King Ouest',45.399472,-71.918798
+158,'158','Jacques-Cartier / King Ouest',45.397944,-71.918873
+159,'159','Pont Jacques-Cartier',45.394488,-71.918905
+160,'160','Jacques-Cartier Sud / Denault',45.388681,-71.918320
+161,'161','Denault / St-Raymond',45.388414,-71.922220
+162,'162','Denault / Cherbourg',45.388319,-71.924914
+163,'163','Denault / Cabana',45.388223,-71.927089
+164,'164','Denault / St-Esprit',45.388103,-71.929353
+165,'165','St-Esprit / Galt Ouest',45.387117,-71.929498
+166,'166','St-Esprit / Forest',45.385594,-71.929493
+167,'167','Bachand / Cabana',45.383842,-71.927575
+169,'169','Université / Prunier',45.381401,-71.930557
+170,'170','Université De Sherbrooke',45.378733,-71.929384
+171,'171','Université / Cabana',45.382214,-71.927936
+172,'172','Université / Montagnais',45.383906,-71.925240
+173,'173','Galt Ouest / St-Hubert',45.386768,-71.922338
+174,'174','Galt Ouest / St-Raymond',45.386753,-71.920126
+175,'175','Parc Du Frère-Théode',45.387112,-71.917497
+176,'176','Jacques-Cartier Sud / Denault',45.388421,-71.917894
+177,'177','Jacques-Cartier Sud / Leech',45.395342,-71.918688
+178,'178','Jacques-Cartier / King Ouest',45.398907,-71.918576
+179,'179','Jacques-Cartier Nord / Albert-Skinner',45.401380,-71.918524
+183,'183','Malouin / Beckett',45.416786,-71.916520
+184,'184','Malouin / Sables',45.418800,-71.917257
+185,'185','École Hélène-Boullé',45.421030,-71.917247
+186,'186','Malouin / Anjou',45.423267,-71.917239
+187,'187','Malouin / Simard',45.425477,-71.917510
+188,'188','Simard / Bellefleur',45.423668,-71.914271
+189,'189','Parc Hélène-Boullé',45.421466,-71.914297
+190,'190','Simard / Sables',45.419357,-71.913375
+191,'191','Ontario / Sables',45.418903,-71.911774
+192,'192','Ontario / Beckett',45.416408,-71.910599
+193,'193','Ontario / Leclerc',45.414162,-71.909559
+194,'194','École Ste-Anne',45.411770,-71.908391
+195,'195','Prospect / Ontario',45.409310,-71.907790
+199,'199','Serres Du Parc Du Domaine-Howard',45.403544,-71.910801
+200,'200','Parc Du Domaine-Howard',45.403473,-71.908084
+202,'202','Portland / Québec',45.403487,-71.904899
+203,'203','Portland / Belvédère Nord',45.404025,-71.901261
+204,'204','Montréal / Élisabeth',45.404932,-71.899496
+206,'206','Musée Des Beaux-Arts De Sherbrooke',45.405487,-71.894699
+207,'207','Pont Gilbert-Hyatt',45.404608,-71.893978
+208,'208','Parc Félix-Thibault',45.403850,-71.885162
+209,'209','Complexe St-Vincent-De-Paul',45.406918,-71.881694
+210,'210','King Est / Murray',45.407834,-71.880332
+211,'211','Murray (No.162)',45.405549,-71.880108
+214,'214','Conseil / 10e Av. Sud',45.403644,-71.872750
+215,'215','Conseil / 12e Av. Sud',45.403660,-71.870834
+216,'216','Conseil / 13e Av. Sud',45.404076,-71.869409
+217,'217','King Est / 13e Av. Sud',45.408372,-71.869510
+218,'218','Ste-Famille / 13e Av. Nord',45.410413,-71.869503
+219,'219','13e Av. Nord / Papineau',45.412969,-71.870081
+220,'220','13e Av. Nord / Langevin',45.414698,-71.870887
+221,'221','13e Av. Nord / Terrill',45.416304,-71.871811
+222,'222','13e Av. Nord (No.708)',45.417913,-71.872162
+223,'223','13e Av. Nord / Jardins-Fleuris',45.419079,-71.872367
+224,'224','13e Av. Nord / 24-Juin',45.421269,-71.872811
+226,'226','Montpellier / 12e Av. Nord',45.425532,-71.871998
+227,'227','Caroline / Séville',45.426128,-71.874293
+228,'228','Morineau / Anse',45.426700,-71.876038
+229,'229','Morineau / Brûlotte',45.428160,-71.876105
+232,'232','Brûlotte / 12e Av. Nord',45.428392,-71.869362
+233,'233','CHUS Fleurimont (Bio-Med)',45.449819,-71.865163
+234,'234','CHUS Fleurimont (Débarcadère Urgence)',45.447121,-71.871289
+236,'236','Brûlotte / Montpellier',45.428480,-71.871002
+239,'239','Morineau / Caroline',45.426211,-71.876208
+240,'240','Caroline / Séville',45.426011,-71.874536
+241,'241','Montpellier / 12e Av. Nord',45.425524,-71.872253
+242,'242','12e Av. Nord / 24-Juin',45.422277,-71.874144
+243,'243','12e Av. Nord / Gariépy',45.420075,-71.873816
+244,'244','12e Av. Nord / Terrill',45.416943,-71.873187
+245,'245','12e Av. Nord / Langlois',45.414978,-71.872813
+246,'246','Papineau / 12e Av. Nord',45.412221,-71.871291
+247,'247','12e Av. Nord / Ste-Famille',45.410727,-71.870778
+248,'248','King Est / 12e Av. Sud',45.408176,-71.870716
+249,'249','12e Av. Sud (No.48)',45.407016,-71.870707
+250,'250','12e Av. Sud / Conseil',45.403817,-71.870641
+251,'251','Conseil / 10e Av. Sud',45.403770,-71.872331
+252,'252','Conseil / 7e Av. Sud',45.403753,-71.875606
+254,'254','Murray (No.162)',45.405511,-71.879985
+255,'255','King Est / Murray',45.407603,-71.879915
+256,'256','King Est / Curtis',45.407562,-71.881067
+257,'257','Complexe St-Vincent-De-Paul',45.406785,-71.882315
+258,'258','Kennedy Sud / King Est',45.405043,-71.884066
+260,'260','King Ouest / Peel',45.400007,-71.893370
+261,'261','Place De La Cité',45.399490,-71.894839
+262,'262','King Ouest / Belvédère Nord',45.399081,-71.896117
+263,'263','Centre D''Information Touristique',45.398749,-71.901579
+264,'264','King Ouest / Québec',45.398972,-71.904382
+265,'265','King Ouest / Ontario',45.398843,-71.907791
+266,'266','King Ouest / Vimy',45.398809,-71.910181
+267,'267','King Ouest / Argyll',45.398761,-71.913329
+268,'268','CSST',45.398733,-71.916041
+269,'269','Jacques-Cartier / King Ouest',45.398662,-71.918231
+270,'270','King Ouest / Fraser',45.398431,-71.923416
+271,'271','King Ouest (No.3200)',45.394821,-71.949204
+272,'272','King Ouest / Farwell',45.398312,-71.926850
+273,'273','Promenades King (Stationnement)',45.399400,-71.929216
+274,'274','King Ouest / Lomas',45.398824,-71.930345
+275,'275','King Ouest / Clark',45.398446,-71.932606
+276,'276','King Ouest / Carillon',45.398410,-71.934221
+277,'277','Place Des Congrès',45.398274,-71.938692
+278,'278','King Ouest / Lionel-Groulx',45.398170,-71.940500
+279,'279','King Ouest / Bocage',45.397486,-71.943044
+280,'280','King Ouest (No.3000)',45.396425,-71.945758
+281,'281','King Ouest / Don Bosco Nord',45.395628,-71.947772
+282,'282','King Ouest / Radisson',45.394566,-71.950507
+283,'283','King Ouest / J-A-Bombardier',45.393070,-71.954412
+287,'287','Chauveau / Léger',45.386116,-71.966077
+288,'288','Chauveau / Fauteux',45.385028,-71.967313
+289,'289','Fauteux / Bernard',45.386203,-71.967746
+290,'290','Fauteux / Brunault',45.387511,-71.968562
+291,'291','Parc Antonio-Barrette',45.389043,-71.969643
+293,'293','Léger / Ouimet',45.392907,-71.969945
+294,'294','Léger / Industriel',45.395606,-71.970228
+295,'295','Industriel (No.3975)',45.398168,-71.963379
+297,'297','Industriel / Portland',45.402743,-71.963199
+298,'298','Carrefour De L''Estrie',45.402364,-71.952689
+299,'299','McCrea / Richard',45.405856,-71.954996
+300,'300','Richard (No.3574)',45.406502,-71.953387
+301,'301','Richard / Bolduc',45.408052,-71.950848
+302,'302','McGregor / Richard',45.411351,-71.945539
+303,'303','Passage McGregor - O''Bready',45.409108,-71.945377
+304,'304','Bolduc / McGregor',45.406125,-71.945454
+309,'309','McCrea / Thomas-Chapais',45.408233,-71.956414
+310,'310','McCrea / Richard',45.405997,-71.955310
+311,'311','Portland / McCrea',45.403471,-71.953259
+312,'312','Industriel / Portland',45.402183,-71.963466
+313,'313','Industriel (No.3820)',45.401024,-71.963308
+314,'314','Industriel (No.4229)',45.395868,-71.968401
+315,'315','Léger / Industriel',45.394847,-71.970416
+316,'316','Léger / Ouimet',45.393692,-71.970268
+318,'318','Parc Antonio-Barrette',45.389162,-71.969649
+319,'319','Fauteux / Brunault',45.387286,-71.968492
+320,'320','Fauteux / Bernard',45.386306,-71.967880
+321,'321','Chauveau / Fauteux',45.385041,-71.967488
+322,'322','Chauveau / Léger',45.386232,-71.965790
+324,'324','King Ouest / Bertrand-Fabi',45.385988,-71.961971
+325,'325','King / Sauvé',45.387491,-71.960202
+326,'326','King Ouest / J-A-Bombardier',45.392864,-71.954181
+327,'327','King Ouest / Radisson',45.394226,-71.950768
+328,'328','King Ouest / Don Bosco Nord',45.395544,-71.947381
+330,'330','King Ouest / Bocage',45.397016,-71.943629
+332,'332','Place Des Congrés',45.398084,-71.937697
+333,'333','King Ouest / Quatre-Pins',45.398186,-71.934089
+334,'334','King Ouest / Clark',45.398234,-71.932346
+335,'335','King Ouest / Lomas',45.398854,-71.930153
+336,'336','Promenades King (Stationnement)',45.399194,-71.929198
+337,'337','King Ouest / Farwell',45.398052,-71.926086
+338,'338','King Ouest / Fraser',45.398286,-71.922794
+339,'339','Jacques-Cartier / King Ouest',45.398449,-71.918340
+340,'340','CSST',45.398523,-71.916598
+341,'341','King Ouest / Argyll',45.398560,-71.913198
+342,'342','King Ouest / Vimy',45.398563,-71.911042
+343,'343','King Ouest / Ontario',45.398664,-71.908427
+344,'344','King Ouest / Québec',45.398785,-71.904825
+345,'345','Centre D''Information Touristique',45.398608,-71.901913
+346,'346','King Ouest / Belvédère Sud',45.398525,-71.896916
+347,'347','Place De La Cité',45.399440,-71.894349
+349,'349','King Ouest / Brooks',45.400250,-71.892192
+352,'352','Murray / Conseil',45.403059,-71.879601
+354,'354','Murray (CHUS - Hôtel-Dieu)',45.399851,-71.877580
+355,'355','Murray / Woodward',45.398190,-71.876923
+356,'356','Parc Philippe-Desranleau',45.398440,-71.874936
+357,'357','Woodward / 10e Av. Sud',45.398750,-71.871844
+358,'358','Woodward / Lavigerie',45.399125,-71.868075
+364,'364','Conseil / Verger',45.403829,-71.858974
+365,'365','Conseil / Jean-Talon',45.403617,-71.862408
+366,'366','Conseil / Normandie',45.403894,-71.864146
+368,'368','Parc Du Coeur-Immaculé-De-Marie',45.401352,-71.864933
+369,'369','Chalifoux / 15e Av. Sud',45.401210,-71.866901
+370,'370','Parc Jean-Claude-Quirion',45.401194,-71.869271
+373,'373','Parc Antonio-Montour',45.401085,-71.877956
+374,'374','Murray / Conseil',45.403294,-71.879596
+376,'376','Bibliothèque Éva -Senécal',45.399749,-71.897376
+377,'377','Pont Hubert-C-Cabana',45.401281,-71.898488
+378,'378','CSSS-IUGS Pavillon Argyll',45.403692,-71.913838
+379,'379','Jacques-Cartier Nord / Portland',45.403833,-71.918193
+380,'380','Portland / Wood',45.403853,-71.921106
+381,'381','École Mitchell-Montcalm - Pavillon Montcalm',45.403868,-71.924031
+382,'382','Portland / Farwell',45.403894,-71.927003
+383,'383','Portland / Meilleur',45.403975,-71.931679
+384,'384','Portland / Lauzon',45.403983,-71.934891
+385,'385','Portland / Wilson',45.403979,-71.938988
+386,'386','Portland / Lionel-Groulx',45.403954,-71.942043
+387,'387','Carrefour De L''Estrie (Caisse Desjardins)',45.402842,-71.949091
+388,'388','SAAQ',45.403509,-71.946575
+389,'389','Portland / Lionel-Groulx',45.403664,-71.942874
+390,'390','Portland / Wilson',45.403733,-71.939510
+391,'391','Portland / Lauzon',45.403743,-71.935179
+392,'392','Portland / Meilleur',45.403712,-71.931882
+393,'393','Portland / Farwell',45.403636,-71.926607
+394,'394','Jacques-Cartier Nord / Portland',45.403611,-71.917847
+396,'396','CSSS-IUGS Pavillon Argyll',45.403566,-71.913562
+398,'398','Collège Du Sacré-Cœur',45.400757,-71.898362
+399,'399','King Ouest / Belvédère Sud',45.398737,-71.896449
+402,'402','École De La Montée - Pavillon St-François',45.395400,-71.879941
+403,'403','Galt Est / 7e Av. Sud',45.396056,-71.874183
+405,'405','Woodward / 10e Av. Sud',45.398661,-71.871570
+406,'406','Parc Philippe-Desranleau',45.398617,-71.874722
+407,'407','Murray / Woodward',45.398498,-71.876858
+408,'408','Parc Antonio-Montour',45.400847,-71.877589
+409,'409','7e Av. Sud / Chalifoux',45.400954,-71.875860
+410,'410','Conseil / 7e Av. Sud',45.403557,-71.875606
+414,'414','Papineau / 10e Av. Nord',45.411102,-71.873274
+415,'415','Papineau / 12e Av. Nord',45.411847,-71.871097
+416,'416','Quatre-Saisons (Entrée Sud)',45.420176,-71.871705
+417,'417','Bowen Sud / Woodward',45.397476,-71.879037
+418,'418','Bertrand-Fabi (No.4204)',45.383651,-71.962660
+419,'419','Portland (No.3025)',45.403703,-71.948638
+420,'420','Souvenir / 24-Juin',45.422067,-71.882122
+421,'421','24-Juin / Pélerins',45.423663,-71.886689
+422,'422','Escadrille / Pèlerins',45.425461,-71.887586
+426,'426','Comanche / Concorde',45.425259,-71.893079
+435,'435','Baron / Pèlerins',45.429409,-71.887336
+436,'436','Pèlerins / Louise',45.427394,-71.887189
+437,'437','24-Juin / Pèlerins',45.423747,-71.886958
+438,'438','Souvenir / 24-Juin',45.422013,-71.882450
+439,'439','Bourque / Joyal',45.357727,-72.012936
+440,'440','Bourque / St-Roch Nord',45.350274,-72.026738
+441,'441','Galeries Quatre-Saisons',45.421000,-71.869788
+452,'452','7e Av. Sud / Chalifoux',45.401179,-71.875716
+453,'453','Galt Est / Ormeaux',45.396378,-71.870826
+454,'454','Galt Est / 7e Av. Sud',45.396228,-71.873753
+455,'455','École De La Montée - Pavillon St-François',45.396209,-71.877574
+456,'456','Pont Joffre / Grandes-Fourches',45.394642,-71.883387
+457,'457','Viaduc / Galt Ouest',45.393867,-71.886621
+458,'458','Bourque / Parc',45.342353,-72.041579
+461,'461','Galt Ouest / St-Denis',45.386951,-71.920147
+462,'462','Galt Ouest / St-Raymond',45.386986,-71.922023
+463,'463','Université / Laterrière',45.385545,-71.924336
+467,'467','Bachand / Cabana',45.383959,-71.927139
+468,'468','Bachand / St-Esprit',45.383962,-71.929245
+472,'472','Galt Ouest / Desnoyers',45.387150,-71.935518
+473,'473','Albert-Dion / Venise',45.335382,-72.049452
+474,'474','Galt Ouest / Panneton',45.387130,-71.939425
+475,'475','Galt Ouest / Bélanger',45.387094,-71.942329
+478,'478','Jolliet / Lisieux',45.381527,-71.948614
+479,'479','Letendre / Duluth',45.382864,-71.949758
+480,'480','Letendre / Galt Ouest',45.385246,-71.949852
+481,'481','Bourque / Albert-Dion',45.339623,-72.047804
+482,'482','Bourque / Parc',45.341965,-72.041767
+483,'483','Lisieux / Descoteaux',45.386369,-71.944248
+484,'484','Parc Tremblay',45.337605,-72.036177
+485,'485','Parc De La Plage-Municipale',45.336724,-72.025033
+486,'486','Parc / Joseph-Pariseau',45.338295,-72.020614
+487,'487','Lisieux / Galt Ouest',45.387127,-71.944253
+488,'488','Galt Ouest / Bélanger',45.386920,-71.942491
+489,'489','Galt Ouest / Panneton',45.386934,-71.940247
+490,'490','Galt Ouest / Godbout',45.386968,-71.937254
+491,'491','Galt Ouest / Desnoyers',45.386991,-71.935165
+492,'492','École Du St-Esprit',45.387004,-71.932960
+493,'493','Galt Ouest / Prunier',45.386951,-71.930371
+494,'494','Galt Ouest / Léonard',45.386920,-71.928623
+495,'495','Parc / Conrad-Blanchet',45.341125,-72.002453
+496,'496','Bourque / St-Roch Nord',45.350064,-72.026273
+497,'497','Bourque / Henri-Bourassa',45.360497,-72.007152
+499,'499','Cégep / Mont-Plaisant',45.407682,-71.883086
+500,'500','Édifice Expo-Sherbrooke',45.409560,-71.882929
+501,'501','Station Du Cégep',45.411529,-71.884850
+502,'502','Plateau Sylvie-Daigle',45.413062,-71.884778
+504,'504','Kennedy Nord / Terrill',45.409973,-71.890546
+505,'505','Kennedy Nord (No.675)',45.411737,-71.892617
+511,'511','St-François Nord / Giet',45.410443,-71.893280
+512,'512','St-François Nord / Clémenceau',45.408246,-71.890936
+513,'513','Parc De La St-François',45.406954,-71.888938
+514,'514','St-François Nord (No.110)',45.405044,-71.887824
+515,'515','St-François Nord / King Est',45.403757,-71.886832
+516,'516','King Ouest / Belvédère Sud',45.398299,-71.896636
+518,'518','Belvédère Sud (Le Centre Sherbrooke)',45.395419,-71.896304
+520,'520','Galt Ouest / Courcelette',45.393581,-71.898444
+521,'521','Galt Ouest / Kingston',45.391815,-71.901617
+522,'522','Kingston / McManamy',45.389728,-71.901542
+523,'523','Kingston / Westmount',45.388221,-71.901541
+524,'524','Kingston / Ancienne-Carrière',45.386092,-71.901478
+525,'525','Kingston / Jogues',45.384360,-71.901474
+526,'526','Kingston / Dunant',45.383172,-71.900697
+527,'527','Boisés / Courville',45.383071,-71.897771
+529,'529','Sara / Grands-Monts',45.380012,-71.895553
+530,'530','Sara / Belvédère Sud',45.378576,-71.894023
+531,'531','Belvédère Sud / Thibault',45.375339,-71.894020
+532,'532','Belvédère Sud / Mirco',45.373512,-71.893980
+537,'537','Chênes / Landry',45.400117,-71.955689
+540,'540','Bacon / Grands-Monts',45.376099,-71.896123
+541,'541','Parc Tessier',45.377481,-71.897276
+542,'542','Boisés / Buissons',45.379134,-71.897194
+543,'543','Mario / Boisés',45.380459,-71.897669
+544,'544','Arsenault / Courville',45.381440,-71.898955
+545,'545','Arsenault / Dunant',45.381566,-71.901677
+546,'546','Kingston / Dunant',45.383245,-71.900580
+547,'547','Kingston / Raoul-Bruneau',45.384812,-71.901287
+548,'548','Kingston / Westmount',45.388062,-71.901364
+549,'549','Kingston / McManamy',45.389497,-71.901378
+550,'550','Galt Ouest / Kingston',45.392154,-71.901471
+552,'552','Belvédère Sud (Le Centre Sherbrooke)',45.395865,-71.895999
+553,'553','Marché De La Gare',45.397380,-71.895872
+554,'554','King Ouest / Belvédère Sud',45.398423,-71.896490
+559,'559','Terrill / St-Michel',45.415387,-71.881803
+562,'562','Kennedy Nord / Terrill',45.409494,-71.891008
+563,'563','Dunant / Boisés',45.383458,-71.898323
+564,'564','Belvédère Sud / Short',45.392607,-71.896221
+565,'565','CSSS-IUGS Pavillon D''Youville',45.390708,-71.896117
+566,'566','Belvédère Sud / McManamy',45.389746,-71.896766
+567,'567','McManamy / Courcelette',45.389714,-71.899224
+568,'568','McManamy / Kingston',45.389656,-71.901295
+569,'569','Galt / McManamy',45.389616,-71.905250
+570,'570','Denault / Galt Ouest',45.389012,-71.907703
+571,'571','Denault / Edward-Rose',45.388985,-71.910088
+572,'572','Denault / Dieppe',45.388975,-71.911881
+573,'573','Claire-Jolicoeur / Denault',45.388707,-71.915447
+574,'574','Jacques-Cartier Sud / Denault',45.388630,-71.917210
+575,'575','Denault / St-Denis',45.388503,-71.920227
+577,'577','Parc Du Frère-Théode',45.386757,-71.917581
+578,'578','Parc De Notre-Dame-Du-Rosaire',45.386748,-71.914957
+580,'580','Galt Ouest / St-Gérard',45.386680,-71.911018
+581,'581','Centre Récréatif Ivan-Dugré',45.388279,-71.907792
+582,'582','Galt / McManamy',45.389506,-71.905089
+583,'583','McManamy / Kingston',45.389550,-71.901576
+584,'584','McManamy / Courcelette',45.389583,-71.898667
+585,'585','Belvédère Sud / McManamy',45.389615,-71.896323
+587,'587','Belvédère Sud / Short',45.392731,-71.896052
+588,'588','Galt / Belvédère',45.394175,-71.896098
+589,'589','Aréna Eugène-Lalonde',45.413981,-71.884095
+590,'590','Terrill / St-Michel',45.415352,-71.882070
+594,'594','King Est / 13e Av. Sud',45.407927,-71.869698
+595,'595','King Est / Alphonse-Laramée',45.407939,-71.867257
+596,'596','King Est / 18e Av. Nord',45.408003,-71.864263
+597,'597','King Est / 20e Av. Nord',45.408681,-71.861158
+598,'598','King Est (No.1300)',45.408876,-71.859310
+599,'599','King Est (No.1518)',45.408733,-71.854444
+600,'600','Place Fleurimont',45.410683,-71.851770
+601,'601','King Est / Evans',45.409501,-71.848741
+602,'602','Raby / Normand',45.410656,-71.840647
+607,'607','Place Normand',45.411277,-71.832399
+608,'608','Normand / Allard',45.411065,-71.829887
+609,'609','Allard / Leblond',45.412507,-71.830366
+610,'610','Allard / Boudreau',45.413556,-71.830901
+612,'612','Nadeau / Harpin',45.412636,-71.826882
+613,'613','Harpin (No.3062)',45.411808,-71.825786
+614,'614','Diamants / Normand',45.410518,-71.827075
+615,'615','Diamants / Rubis',45.408732,-71.826428
+616,'616','Diamants / Topazes',45.406189,-71.824983
+621,'621','Parc Gilles-Charland',45.406363,-71.834853
+622,'622','Galvin / Raby',45.406703,-71.838996
+623,'623','Bouleaux / Chemin Galvin',45.406453,-71.840477
+624,'624','Cyprès / Bouleaux',45.404600,-71.840738
+629,'629','Parc Desranleau',45.406073,-71.850745
+631,'631','King Est (No.1518)',45.408877,-71.854311
+633,'633','King Est / 20e Av. Nord',45.408745,-71.861495
+634,'634','King Est / 18e Av. Nord',45.408195,-71.864017
+635,'635','Duplessis / 12e Av. Nord',45.450353,-71.860800
+638,'638','Plateau Sylvie-Daigle',45.412958,-71.884905
+640,'640','Édifice Expo-Sherbrooke',45.409568,-71.883378
+641,'641','Cégep / Montplaisant',45.407803,-71.883272
+642,'642','Complexe St-Vincent-De-Paul',45.406418,-71.883142
+643,'643','Alexandre / King Ouest',45.399413,-71.893959
+644,'644','École Sacré-Cœur',45.397801,-71.892895
+645,'645','Parc Du Petit-Canada',45.395868,-71.891449
+646,'646','Galt Ouest / Alexandre',45.394515,-71.890660
+647,'647','École LaRocque',45.392706,-71.890802
+648,'648','LaRocque / McManamy',45.390079,-71.890519
+649,'649','Bourque / Henri-Bourassa',45.360745,-72.007502
+650,'650','Centre Récréatif Et Communautaire De Deauville',45.343595,-72.039022
+651,'651','Albert-Dion (No.213)',45.333209,-72.049819
+652,'652','Albert-Dion / André-Vanier',45.331586,-72.051588
+653,'653','Bourque (No.7894)',45.335308,-72.050973
+654,'654','Parc / Lac',45.339574,-72.040474
+655,'655','Parc (No.590)',45.336048,-72.029303
+656,'656','Parc / Lebel',45.342318,-72.010157
+657,'657','Union / Belvédère Sud',45.386572,-71.895690
+658,'658','Belvédère Sud / Westmount',45.388148,-71.895916
+660,'660','Pacifique / Haig',45.391893,-71.908666
+661,'661','Dieppe / Pacifique',45.391297,-71.912136
+662,'662','McManamy / Dieppe',45.389775,-71.912109
+663,'663','McManamy / Claire-Jolicoeur',45.389645,-71.915563
+676,'676','Gervais / Delorme',45.389704,-71.947551
+677,'677','Gervais / Genest',45.390624,-71.945711
+678,'678','Lisieux / Gervais',45.391134,-71.944547
+687,'687','Roy / Ste-Thérèse',45.390315,-71.917028
+688,'688','McManamy / Claire-Jolicoeur',45.389707,-71.915799
+689,'689','McManamy / Dieppe',45.389565,-71.912112
+690,'690','Dieppe / Pacifique',45.391675,-71.911999
+691,'691','Pacifique / Haig',45.391773,-71.908692
+692,'692','Pacifique / Kitchener',45.391801,-71.905927
+693,'693','Belvédère Sud / Chapleau',45.387238,-71.896356
+694,'694','Union / Belvédère Sud',45.386419,-71.895707
+696,'696','Bourque / Joyal',45.357433,-72.012737
+697,'697','St-Louis / Darche',45.383676,-71.890943
+698,'698','Darche / Adélard-Collette',45.383592,-71.888904
+699,'699','Darche / Évangéline',45.383704,-71.886863
+700,'700','Évangéline (No.1390)',45.385619,-71.886760
+701,'701','Évangéline / Union',45.386853,-71.886869
+702,'702','Évangéline / Côte De L''Acadie',45.388386,-71.887025
+703,'703','Évangéline / McManamy',45.390061,-71.887194
+705,'705','École LaRocque',45.392487,-71.890624
+706,'706','Galt Ouest / Alexandre',45.393866,-71.890574
+707,'707','Galt Ouest / Alexandre',45.394496,-71.890389
+708,'708','Parc Du Petit-Canada',45.395810,-71.891280
+709,'709','École Sacré-Cœur',45.397632,-71.892556
+710,'710','Alexandre / King Ouest',45.399534,-71.893895
+711,'711','Galt / McManamy',45.389955,-71.904933
+712,'712','Galt Ouest / Fairmount',45.390813,-71.903679
+713,'713','Galt Ouest / Kingston',45.392097,-71.901841
+716,'716','Galt Ouest (Le Centre Sherbrooke)',45.394473,-71.895192
+717,'717','Galt Ouest / St-Pierre',45.394251,-71.892674
+718,'718','Galt Ouest / Alexandre',45.394112,-71.891192
+720,'720','Pont Joffre / Grandes-Fourches',45.394458,-71.883275
+721,'721','Galt Est / Ormeaux',45.396114,-71.870794
+726,'726','Chalifoux / 15e Av. Sud',45.401102,-71.867349
+729,'729','École Du Coeur-Immaculé',45.403824,-71.867209
+731,'731','Arona / Papineau',45.413234,-71.867405
+734,'734','Bertrand-Fabi / Comtois',45.384693,-71.962544
+735,'735','Arona / Papineau',45.412977,-71.867514
+736,'736','École De La Montée - Pavillon Le Ber',45.410651,-71.867449
+737,'737','Ste-Famille / 13e Av. Nord',45.410563,-71.869480
+738,'738','Conseil / 13e Av. Sud',45.403662,-71.869653
+739,'739','École Du Coeur-Immaculé',45.403677,-71.867469
+740,'740','Conseil / Normandie',45.403736,-71.865477
+747,'747','Galt Est / Ormeaux',45.396285,-71.870480
+750,'750','Galt Ouest (Le Centre Sherbrooke)',45.394657,-71.894745
+751,'751','Galt Ouest / Kingston',45.392319,-71.901842
+752,'752','Galt Ouest / Champlain',45.390547,-71.904394
+753,'753','Boisés (No.1745)',45.381463,-71.897267
+754,'754','Boisés / Buissons',45.379566,-71.897326
+755,'755','Parc Tessier',45.377403,-71.897432
+756,'756','Bacon / Grands-Monts',45.376026,-71.896415
+757,'757','Thibault / Bacon',45.375308,-71.895122
+758,'758','Thibault (No.810)',45.375120,-71.897427
+759,'759','École Jean-XXIII',45.374423,-71.900470
+760,'760','Gauthier / Habitat',45.373008,-71.900959
+762,'762','Promenades King (Entrée Ouest)',45.399735,-71.929939
+763,'763','Belvédère Sud / Hallée',45.368661,-71.894346
+764,'764','College / Croissant Oxford',45.366064,-71.870398
+765,'765','College (No.53)',45.366506,-71.865342
+766,'766','College / Lorne',45.366454,-71.863117
+767,'767','College / Parkdale',45.366434,-71.860240
+768,'768','College / Queen',45.366203,-71.857366
+769,'769','College / Vaudry',45.366727,-71.866269
+770,'770','College / Croissant Oxford',45.366220,-71.870306
+771,'771','Belvédère Sud / Hallée',45.368324,-71.894319
+772,'772','Savoie / Boulogne',45.452898,-71.921694
+773,'773','Boulogne / Champfleur',45.454750,-71.919623
+776,'776','Gauthier / Habitat',45.373272,-71.900294
+777,'777','École Jean-XXIII',45.374719,-71.900285
+778,'778','Thibault (No.810)',45.375026,-71.897398
+779,'779','Thibault / Bacon',45.375651,-71.894967
+780,'780','Boisés (No.1662)',45.381819,-71.897106
+781,'781','Dunant / Boisés',45.383570,-71.898130
+782,'782','McManamy / Kingston',45.389663,-71.902057
+784,'784','Duvernay / Prospect',45.410709,-71.937718
+785,'785','Beckett / Rostand',45.416969,-71.932706
+787,'787','Prospect / Paul-Desruisseaux',45.408946,-71.931179
+788,'788','Prospect / Bouchette',45.408919,-71.924648
+789,'789','Prospect / Passage Chambly',45.408857,-71.920433
+790,'790','Josaphat-Rancourt / Plateau St-Joseph',45.420781,-71.966498
+792,'792','Kennedy Nord / Terrill',45.409569,-71.890392
+793,'793','Cégep Salle Alfred-Des Rochers',45.411081,-71.888138
+794,'794','Terrill / Cégep',45.412093,-71.886694
+795,'795','Mgr-Fortier / Francis-McCrea',45.424819,-71.955739
+796,'796','École Pie-X-De-L''Assomption',45.416225,-71.882440
+799,'799','Centre De Formation Professionnelle 24-Juin',45.422090,-71.878313
+800,'800','12e Av. Nord / 24-Juin',45.421978,-71.874203
+802,'802','Industriel / Labonté',45.395484,-71.985201
+803,'803','Centre De Formation Professionnelle 24-Juin',45.421975,-71.878085
+804,'804','Parc Maquette',45.395658,-72.003264
+805,'805','Dion / Alouettes',45.398178,-72.003487
+806,'806','École Pie-X-De-L''Assomption',45.416529,-71.882675
+807,'807','Terrill / St-Michel',45.415588,-71.882146
+808,'808','Dion / Bouvreuils',45.400470,-72.003387
+809,'809','Croteau / 220',45.395012,-72.010078
+812,'812','Beckett / Rostand',45.416894,-71.932881
+813,'813','St-Élie / Hamel',45.394725,-72.021648
+814,'814','McGregor / Richard',45.411523,-71.945393
+815,'815','Richard / Bolduc',45.408341,-71.950810
+816,'816','McCrea / Richard',45.406033,-71.955066
+817,'817','King Est / 7e Av. Sud',45.407966,-71.876095
+818,'818','Terrasses 777',45.407947,-71.872805
+819,'819','St-Élie / Gendron',45.394469,-72.030832
+820,'820','St-Élie / St-Roch Nord',45.395613,-72.040272
+821,'821','Jonquilles / Papineau',45.414171,-71.866322
+822,'822','Jonquilles (No.480)',45.416076,-71.866444
+823,'823','Jonquilles / Jardins-Fleuris',45.418694,-71.865731
+824,'824','St-Élie / St-Michel-Archange',45.394404,-72.045963
+825,'825','St-Élie / Laliberté',45.393948,-72.049610
+829,'829','Jonquilles / Jardins-Fleuris',45.418517,-71.865976
+830,'830','Jonquilles (No.480)',45.415771,-71.866614
+831,'831','Jonquilles / Papineau',45.413866,-71.866210
+832,'832','Industriel (No.498)',45.395436,-71.989917
+833,'833','Brunelle / Chemin De St-Élie',45.387292,-72.068647
+834,'834','King Est / 7e Av. Sud',45.408063,-71.875785
+835,'835','King Est (No.470)',45.408120,-71.878296
+842,'842','King / Sauvé',45.388334,-71.960043
+843,'843','Val-Des-Arbres / St-Élie',45.384897,-72.073631
+844,'844','Léger / King Ouest',45.385976,-71.963561
+847,'847','Varennes / Vauquelin',45.381792,-71.966671
+848,'848','Varennes / Vauréal',45.380561,-71.968856
+849,'849','Varennes / Roberge',45.378733,-71.970761
+851,'851','Roberge / Vichy',45.377043,-71.966043
+852,'852','Roberge / Bertrand-Fabi',45.376870,-71.964098
+853,'853','Bertrand-Fabi / Vétérans',45.375194,-71.964183
+854,'854','Coombs / Bertrand-Fabi',45.373905,-71.964767
+856,'856','Coombs / Place Casgrain',45.373502,-71.970011
+857,'857','Coombs / Chambois',45.373072,-71.971694
+858,'858','Poisson / Henri-Labonne',45.371960,-71.994178
+860,'860','Henri-Labonne / Paillard',45.370128,-71.994294
+873,'873','Magloire / Melville',45.378513,-71.989107
+874,'874','Magloire / Pépinière',45.376333,-71.989375
+875,'875','Magloire (No.4859)',45.374010,-71.990908
+876,'876','Poisson / Magloire',45.371983,-71.993326
+877,'877','Henri-Labonne / Bourque',45.368168,-71.994854
+878,'878','Poisson / Magloire',45.371981,-71.993027
+879,'879','Magloire (No.4859)',45.373895,-71.990847
+880,'880','Magloire / Pépinière',45.376165,-71.989237
+881,'881','Magloire / Melville',45.378309,-71.988934
+894,'894','Mi-Vallon / Vétérans',45.375320,-71.977673
+896,'896','Vétérans / Viel',45.375078,-71.971930
+898,'898','Coombs / Place Casgrain',45.373553,-71.969639
+900,'900','Coombs / Bertrand-Fabi',45.373735,-71.964889
+901,'901','Bertrand-Fabi / Vétérans',45.375195,-71.964014
+902,'902','Roberge / Bertrand-Fabi',45.376905,-71.964419
+903,'903','Roberge / Vichy',45.377164,-71.966014
+905,'905','Varennes / Roberge',45.378698,-71.970418
+906,'906','Varennes / Vauréal',45.380359,-71.968967
+907,'907','Varennes / Vauquelin',45.381716,-71.966576
+908,'908','Varennes / Bertrand-Fabi',45.382753,-71.963194
+910,'910','St-Élie / Laliberté',45.393783,-72.049728
+915,'915','Parc Félix-Thibault',45.404355,-71.885250
+916,'916','Parc De La St-François',45.407009,-71.888723
+917,'917','Parc Du Mena''Sen',45.411279,-71.895298
+918,'918','Savoie / Poitou',45.450394,-71.922250
+919,'919','Poitou / Alsace',45.449014,-71.921261
+920,'920','Parc Valère-Patoine',45.451516,-71.917842
+921,'921','Champfleur / Beaucours',45.458145,-71.915464
+922,'922','Champfleur / Côte De Beauvoir',45.460525,-71.913985
+923,'923','Parc Du Mena''Sen',45.411149,-71.895623
+924,'924','St-Élie / Bell',45.394107,-72.044246
+925,'925','Duplessis / Lemire',45.422336,-71.850303
+926,'926','Duplessis / Lemire',45.422027,-71.850396
+927,'927','Goddard / Duplessis',45.448215,-71.850037
+928,'928','Alfred-Champigny (No.2175)',45.436417,-71.821834
+929,'929','Alfred-Champigny / King Est',45.431714,-71.821041
+930,'930','St-Élie / St-Roch Nord',45.395378,-72.040525
+931,'931','St-Élie / Gendron',45.394440,-72.032053
+933,'933','St-Élie / Nordet',45.394777,-72.010960
+934,'934','Croteau / Bédard',45.395609,-72.009926
+935,'935','Croteau / Geais',45.398790,-72.009966
+936,'936','Tourterelles / Croteau',45.401105,-72.010048
+937,'937','Dion / Bouvreuils',45.400260,-72.003578
+938,'938','Dion / Alouettes',45.398170,-72.003314
+939,'939','Haut-Bois / Bourque',45.371112,-71.991076
+940,'940','Gaspé / Haut-Bois Sud',45.368862,-71.988535
+941,'941','Parc Maquette',45.395820,-72.003485
+942,'942','Hériot / Haut-Bois Sud',45.363259,-71.984524
+943,'943','Hériott / Hélène-Boullé',45.362079,-71.986336
+945,'945','Henri-Bourassa / Hériot',45.358523,-71.986897
+946,'946','Henri-Bourassa / Harvard',45.358779,-71.990978
+947,'947','Président-Kennedy / Henri-Bourassa',45.358943,-71.994074
+948,'948','Parc Central',45.354945,-71.994327
+950,'950','Curé / Bertrand-Fabi',45.354716,-71.987821
+951,'951','Emery-Fontaine / St-Roch Sud',45.348758,-71.991534
+952,'952','Industriel / St-Jacques',45.395136,-71.994246
+953,'953','Université/ St-Roch Sud',45.345132,-71.983601
+954,'954','Université / Jeanson',45.353115,-71.979383
+955,'955','Université / Laplante',45.357907,-71.965861
+956,'956','Université (No.4076)',45.361838,-71.964116
+957,'957','Parc Galt',45.364407,-71.961900
+958,'958','Parc Galt',45.364390,-71.962250
+960,'960','Université / Laplante',45.358086,-71.965764
+961,'961','Université / Jeanson',45.353297,-71.979318
+962,'962','Université/ St-Rock Sud',45.345171,-71.983713
+963,'963','Place Dussault',45.348862,-71.988650
+964,'964','Industriel / Labonté',45.395352,-71.985093
+965,'965','Émery-Fontaine / St-Roch Sud',45.348838,-71.991168
+967,'967','Émery-Fontaine / Bergeron',45.349579,-71.990074
+968,'968','St-Élie / Hamel',45.394520,-72.021826
+969,'969','St-Élie / Circé',45.394689,-72.015172
+971,'971','Henri-Bourassa (No.831)',45.358660,-71.988924
+972,'972','Val-Des-Arbres / Arbrisseaux',45.398647,-72.073689
+973,'973','Arbrisseaux / Bois-Francs',45.399399,-72.071124
+975,'975','Centre Récréatif Rock Forest',45.367624,-71.990587
+976,'976','Gaspé / Hervé',45.366572,-71.991792
+977,'977','Gaspé / Président-Kennedy',45.365870,-71.994122
+978,'978','Savoie / St-François Nord',45.448776,-71.927453
+979,'979','Artois / Savoie',45.449713,-71.924886
+980,'980','Brunelle / Arbrisseaux',45.399151,-72.068197
+982,'982','École De L''Écollectif',45.386663,-71.893619
+986,'986','Trinité/ Chemin Blanchette',45.334616,-72.018424
+987,'987','Boulogne / St-François Nord',45.450816,-71.928346
+988,'988','Boulogne / Lorraine',45.451506,-71.926067
+990,'990','St-François Nord (No.5892)',45.460422,-71.917006
+992,'992','North Hatley / Ste-Catherine',45.355492,-71.943585
+993,'993','Industriel / Portland',45.404024,-71.963384
+994,'994','Industriel (No.4155)',45.395993,-71.966683
+996,'996','Industriel (No.2880)',45.414478,-71.968668
+997,'997','Letellier (No.4025)',45.416151,-71.971422
+1002,'1002','Industriel (No.3975)',45.397892,-71.963234
+1003,'1003','Varennes / Bertrand-Fabi',45.382910,-71.963074
+1004,'1004','Queen-Victoria / Sables',45.419668,-71.907766
+1005,'1005','Queen-Victoria / Écossais',45.448497,-71.930972
+1006,'1006','Queen-Victoria / Veronneau',45.459540,-71.933150
+1007,'1007','Paquin / Mullins',45.468714,-71.934984
+1008,'1008','Mullins / Meunier',45.470356,-71.935904
+1009,'1009','Mullins / Ledoux',45.471235,-71.939328
+1010,'1010','Beaudoin / St-Jean-Baptiste',45.470377,-71.940989
+1011,'1011','Croix / Oliva-Turgeon',45.470986,-71.944187
+1012,'1012','Gaspé / Président-Kennedy',45.365760,-71.993841
+1013,'1013','Gaspé / Hervé',45.366283,-71.991903
+1014,'1014','Centre Récréatif Rock Forest',45.367767,-71.990100
+1015,'1015','Gaspé / Haut-Bois Sud',45.368713,-71.988411
+1017,'1017','Oliva-Turgeon / Sénateur-Tobin',45.469879,-71.945606
+1018,'1018','Jacques-Cartier Nord / Portland',45.403487,-71.918445
+1019,'1019','Parc Industriel Gene H. Kruger',45.467632,-71.948706
+1020,'1020','PME / Laval',45.468662,-71.950212
+1021,'1021','Queen-Victoria / Claude-Greffard',45.443495,-71.925275
+1023,'1023','École Secondaire De Bromptonville',45.472002,-71.951285
+1024,'1024','St-Lambert / Noémie-Fortin',45.474728,-71.947483
+1026,'1026','Brûlotte / Ernest-Therriault',45.429107,-71.859708
+1027,'1027','Brûlotte / Ernest-Therriault',45.429222,-71.859757
+1028,'1028','Brûlotte / Vice-Roy',45.431139,-71.858020
+1030,'1030','Parc Maillé',45.424978,-71.864887
+1031,'1031','St-Lambert / Route De Windsor',45.475056,-71.943249
+1032,'1032','Galeries Quatre-Saisons',45.420921,-71.869616
+1033,'1033','Baron / Pélerins',45.429214,-71.887061
+1034,'1034','Pélerins / Sanctuaire',45.444122,-71.887614
+1035,'1035','Champêtre / Sanctuaire',45.440333,-71.900518
+1036,'1036','Notre-Dame / Curé-LaRocque',45.473314,-71.950073
+1037,'1037','Lajeunesse / Pélerins',45.431743,-71.887409
+1038,'1038','Cimes / Champêtre',45.436702,-71.899283
+1039,'1039','Baron / Pélerins',45.429569,-71.887349
+1041,'1041','CHUS Fleurimont (Porte 35)',45.447219,-71.867627
+1042,'1042','Route De Windsor (No.51)',45.479512,-71.941283
+1043,'1043','Arsenault / Dunant',45.381713,-71.901905
+1044,'1044','Richard (No.3574)',45.406694,-71.953227
+1047,'1047','Beckett / Jacques-Cartier Nord',45.416754,-71.919218
+1049,'1049','Queen Victoria / Claude-Greffard',45.443325,-71.925304
+1050,'1050','Racine / Ernest-Bergeron',45.481662,-71.947314
+1052,'1052','Prospect (No.2525)',45.410105,-71.933936
+1053,'1053','LaRocque / Mère-Terésa',45.391193,-71.890412
+1056,'1056','Murray (CHUS - Hôtel-Dieu)',45.399704,-71.877361
+1057,'1057','Wellington Sud / Aberdeen',45.397544,-71.888090
+1059,'1059','Galt / Belvédère',45.394000,-71.896299
+1061,'1061','Route De Windsor (No.65)',45.479505,-71.941594
+1062,'1062','St-Lambert / Route De Windsor',45.475179,-71.943207
+1063,'1063','St-Lambert / Noémie-Fortin',45.474852,-71.947385
+1064,'1064','Notre-Dame / Curé-LaRocque',45.473527,-71.950091
+1065,'1065','École Secondaire De Bromptonville',45.471896,-71.951462
+1067,'1067','PME / Laval',45.468421,-71.950278
+1069,'1069','Parc Industriel Gene H. Kruger',45.467879,-71.948211
+1070,'1070','Oliva-Turgeon / Croix',45.470917,-71.944311
+1072,'1072','CSSS-IUGS Pavillon D''Youville',45.389912,-71.892816
+1073,'1073','Parc Nault',45.469693,-71.941778
+1077,'1077','Beaudoin / Mullins',45.471403,-71.940009
+1078,'1078','Parc Du Champ-De-Mars',45.407254,-71.901422
+1079,'1079','Mullins / Meunier',45.470479,-71.936128
+1083,'1083','College / Archie-Mitchell',45.365499,-71.875018
+1087,'1087','Beckett / Musset',45.416935,-71.926779
+1088,'1088','Parc André-Viger',45.410005,-71.948886
+1089,'1089','Parc André-Viger',45.410443,-71.948651
+1090,'1090','King Ouest / Belvédère Sud',45.398580,-71.897566
+1095,'1095','Mullins / Paquin',45.468676,-71.935236
+1096,'1096','Queen-Victoria / Veronneau',45.459722,-71.933124
+1098,'1098','Queen-Victoria / Écossais',45.448322,-71.931060
+1099,'1099','Queen-Victoria / Sables',45.419895,-71.908080
+1106,'1106','Louise / Ste-Hélène',45.427331,-71.880744
+1113,'1113','Mi-Vallon / Bourque',45.376701,-71.977724
+1116,'1116','Mi-Vallon / Vétérans',45.375519,-71.977493
+1121,'1121','Mi-Vallon / Bourque',45.376935,-71.977740
+1122,'1122','King Est / 12e Av. Sud',45.408117,-71.870488
+1123,'1123','Terrasses 777',45.408113,-71.872506
+1127,'1127','King Est / 12e Av. Sud',45.407955,-71.870775
+1129,'1129','LaRocque / McManamy',45.389810,-71.890341
+1130,'1130','Union / Larocque',45.386713,-71.890204
+1133,'1133','Souvenir (No.720)',45.419109,-71.882132
+1134,'1134','Souvenir (No.720)',45.419095,-71.882251
+1137,'1137','LaRocque / Mère-Terésa',45.391468,-71.890670
+1139,'1139','Union / St-Louis',45.386637,-71.891662
+1146,'1146','King Est (No.470)',45.407984,-71.878196
+1147,'1147','Lys / Quatre-Saisons',45.421353,-71.863868
+1148,'1148','Lys / Jardins-Fleuris',45.418714,-71.864922
+1151,'1151','College / Archie-Mitchell',45.365352,-71.874916
+1152,'1152','Croissant Oxford (No.103)',45.364087,-71.871962
+1156,'1156','Beckett / Duvernay',45.417016,-71.937282
+1157,'1157','Parc Frédéric',45.414344,-71.937572
+1158,'1158','Duvernay / Prospect',45.410858,-71.937660
+1159,'1159','Parc Frédéric',45.414641,-71.937361
+1160,'1160','Beckett / Duvernay',45.416829,-71.937412
+1161,'1161','Parc Du Bois-Beckett',45.416833,-71.930476
+1162,'1162','Beckett / Musset',45.416844,-71.927029
+1166,'1166','SAAQ',45.403772,-71.947035
+1167,'1167','Lys (Résidences)',45.420479,-71.863981
+1174,'1174','Wellington Sud (No.400)',45.384472,-71.879681
+1175,'1175','Wellington Sud (No.400)',45.384381,-71.879778
+1176,'1176','Louis-Riel / Richard',45.409191,-71.950275
+1177,'1177','Wilfrid-Grégoire / Victor-Dupuis',45.411628,-71.954204
+1178,'1178','Wilfrid-Grégoire / McCrea',45.411590,-71.956138
+1179,'1179','McCrea / Charles-Hamel',45.410642,-71.956436
+1184,'1184','Croissant Oxford (No.107)',45.363924,-71.873461
+1185,'1185','Léger / Brodeur',45.391367,-71.969729
+1186,'1186','Léger / Robitaille',45.390683,-71.969806
+1188,'1188','Lotbinière / Chemin De North Hatley',45.318645,-71.972258
+1189,'1189','Blanchette / Pointe-Gervais',45.320251,-72.015257
+1190,'1190','Rodrigue / Blanchette',45.334634,-71.999347
+1194,'1194','St-Roch Sud / Blanchette',45.334493,-71.979007
+1197,'1197','Président-Kennedy / Henri-Bourassa',45.359002,-71.994339
+1200,'1200','Molière / Chauveau',45.384385,-71.969598
+1201,'1201','Molière / Grégoire',45.383299,-71.969612
+1203,'1203','Molière / Grégoire',45.383310,-71.969505
+1204,'1204','Molière / Chauveau',45.384381,-71.969531
+1208,'1208','Président-Kennedy / Daigle',45.364002,-71.994362
+1209,'1209','Curé / Bertrand-Fabi',45.354850,-71.987992
+1211,'1211','Parc Central',45.354891,-71.994057
+1220,'1220','Haut-Bois / Bourque',45.371178,-71.990936
+1227,'1227','Prospect (No.2262)',45.409094,-71.927776
+1228,'1228','Prospect (No.2262)',45.408974,-71.927484
+1229,'1229','Beckett / Rochefoucauld',45.416779,-71.921658
+1231,'1231','Belvédère Sud (No.1855)',45.377011,-71.893927
+1232,'1232','Prospect / Mézy',45.410813,-71.941845
+1233,'1233','Prospect / Mézy',45.410616,-71.941960
+1234,'1234','École Du Triolet / Parc Innovation',45.380376,-71.944029
+1239,'1239','Université / Nick',45.354234,-71.976728
+1240,'1240','Université / Nick',45.354099,-71.976775
+1244,'1244','King Est (No.1050)',45.407982,-71.865970
+1250,'1250','Université / Labbé',45.354554,-71.970740
+1251,'1251','Haut-Bois Sud / Henri',45.365471,-71.985689
+1254,'1254','Henri-Bourassa / Faillon',45.359445,-72.000180
+1255,'1255','Henri-Bourassa / Faribault',45.359120,-71.996104
+1256,'1256','Président-Kennedy / Arcy-McGee',45.361617,-71.994343
+1259,'1259','Université / Papineau-Couture',45.372811,-71.956050
+1260,'1260','Université / Indiana',45.367802,-71.958720
+1264,'1264','Université / Albéric-Dussault',45.360154,-71.963836
+1267,'1267','Université / Indiana',45.368075,-71.958449
+1268,'1268','Université / Fernand-Bachand',45.369886,-71.957683
+1271,'1271','Prospect / Boisjoli',45.409214,-71.916088
+1272,'1272','École Jean-XXIII',45.374911,-71.900247
+1273,'1273','André / Thibault',45.374724,-71.903217
+1274,'1274','André / Habitat',45.373038,-71.903453
+1275,'1275','Habitat / Ludger',45.372890,-71.902524
+1276,'1276','Belvédère Sud / Thibault',45.375175,-71.894151
+1277,'1277','Belvédère Sud / Leslie',45.371987,-71.893510
+1278,'1278','Belvédère Sud / Mirco',45.373353,-71.893794
+1279,'1279','Belvédère Sud / Thibault',45.375284,-71.894497
+1280,'1280','André / Habitat',45.372993,-71.903257
+1281,'1281','André / Thibault',45.374806,-71.903070
+1282,'1282','École Jean-XXIII',45.374786,-71.900746
+1283,'1283','Industriel / Missisquoi',45.395434,-71.981767
+1284,'1284','Yamaska / Memphrémagog',45.393433,-71.983552
+1285,'1285','Tomifobia / Madakik',45.391580,-71.983513
+1286,'1286','Tomifobia / Coaticook',45.391259,-71.981594
+1287,'1287','Coaticook / Alsigon',45.392288,-71.981354
+1288,'1288','Barton / Memphrémagog',45.394073,-71.978608
+1289,'1289','Barton / Industriel',45.395390,-71.978672
+1290,'1290','Montréal / Joseph-Rosenbloom',45.406286,-71.896862
+1292,'1292','Prospect (No.2525)',45.410026,-71.934079
+1293,'1293','Prospect / Boul.Jacques-Cartier',45.408975,-71.918711
+1294,'1294','Parc Jacques-Cartier',45.396768,-71.918657
+1296,'1296','Simard (No.1620)',45.426004,-71.916126
+1297,'1297','CHUS Fleurimont / 12e Av. Nord',45.449042,-71.863291
+1298,'1298','CHUS Fleurimont / 12e Av. Nord',45.448699,-71.862936
+1299,'1299','Industriel (No.4155)',45.395900,-71.966174
+1301,'1301','King Est (No.2140)',45.411103,-71.843022
+1305,'1305','P. St-Joseph / Mgr-Fortier',45.424590,-71.962910
+1306,'1306','King Est / Galt Est',45.408657,-71.852127
+1307,'1307','Paysans (No.1006)',45.422041,-71.868234
+1308,'1308','Lys / Tulipes',45.423290,-71.864848
+1309,'1309','Lys / Quatre-Saisons',45.421409,-71.864404
+1312,'1312','Louis-Riel (No.795)',45.410507,-71.952962
+1314,'1314','Président-Kennedy / Frédéric',45.356697,-71.994335
+1315,'1315','Université / Galt Ouest',45.374334,-71.953972
+1316,'1316','Denault / Cabana',45.388306,-71.927493
+1317,'1317','Val-Du-Lac',45.314276,-72.017392
+1319,'1319','13e Av. Sud (No.16)',45.407600,-71.869456
+1321,'1321','King Ouest / Burlington',45.397892,-71.940873
+1322,'1322','Belvédère Sud / Hallée',45.368307,-71.893646
+1323,'1323','McDonald (No.585)',45.368852,-71.891020
+1324,'1324','McDonald / Hallée',45.368434,-71.893269
+1326,'1326','Portland / McCrea',45.403448,-71.953639
+1327,'1327','Souvenir / 24-Juin',45.421918,-71.882216
+1328,'1328','Promenades King (Entrée Ouest)',45.399910,-71.930098
+1329,'1329','Quatre-Saisons / 12e Av. Nord',45.420105,-71.873199
+1330,'1330','CSSS-IUGS Pavillon D''Youville',45.390106,-71.895903
+1331,'1331','Belvédère Sud / Belmont',45.371538,-71.893611
+1332,'1332','Belvédère Sud / Riel',45.370396,-71.893688
+1334,'1334','Belvédère Sud / Riel',45.370367,-71.893511
+1336,'1336','Université / Galt Ouest',45.374098,-71.953714
+1338,'1338','Argenteuil / St-Rock Sud',45.348277,-71.988883
+1339,'1339','Dépôt / Wellington Sud',45.398235,-71.887838
+1340,'1340','King Ouest / Rioux',45.398616,-71.921172
+1341,'1341','Portland (No.3050)',45.403400,-71.955306
+1342,'1342','Portland (No 3050)',45.403125,-71.954699
+1344,'1344','Galt Ouest / Cherbourg',45.387062,-71.925653
+1345,'1345','Ste-Bernadette / Grégoire',45.382820,-71.972628
+1347,'1347','Ste-Bernadette / Martin',45.380060,-71.975526
+1348,'1348','Pavillon / Ste-Bernadette',45.379983,-71.976956
+1351,'1351','Magloire / Manseau',45.379975,-71.988857
+1352,'1352','Émery-Fontaine / Bergeron',45.349587,-71.990262
+1353,'1353','Président-Kennedy / Henri-Bourassa',45.358794,-71.994139
+1354,'1354','Président-Kennedy / Arcy-McGee',45.361584,-71.994137
+1355,'1355','Président-Kennedy / Daigle',45.363771,-71.994158
+1357,'1357','Magloire / Manseau',45.379812,-71.988749
+1361,'1361','Pavillon / Ste-Bernadette',45.379818,-71.977037
+1362,'1362','Ste-Bernadette / Martin',45.379825,-71.975755
+1363,'1363','Ste-Bernadette / Grégoire',45.382978,-71.972420
+1364,'1364','Chauveau / Fauteux',45.384886,-71.967420
+1365,'1365','Parc Beaulieu',45.373100,-71.975151
+1366,'1366','Fortier Sud / Cabano',45.371640,-71.975348
+1367,'1367','Fortier Sud / Viau',45.371653,-71.977548
+1368,'1368','Gaspé / Viau',45.370896,-71.978083
+1369,'1369','Gaspé (No.4761)',45.371085,-71.981305
+1370,'1370','Gaspé / Gibraltar',45.370680,-71.985239
+1371,'1371','Gaspé / Haut-Bois Sud',45.368959,-71.988260
+1373,'1373','Gaspé / Gibraltar',45.370485,-71.985336
+1374,'1374','Gaspé (No.4761)',45.370914,-71.979994
+1375,'1375','Gaspé / Viau',45.370741,-71.977857
+1376,'1376','Fortier Sud / Viau',45.371481,-71.977610
+1377,'1377','Fortier Sud / Cabano',45.371514,-71.975402
+1378,'1378','Parc Beaulieu',45.372945,-71.975163
+1379,'1379','Coombs / Chambois',45.372965,-71.971972
+1380,'1380','Industriel (No.3820)',45.400262,-71.963077
+1381,'1381','Lisieux / Galt Ouest',45.387095,-71.944115
+1382,'1382','Lisieux / Lachine',45.388979,-71.944212
+1383,'1383','Lisieux / Gervais',45.390809,-71.944298
+1388,'1388','Parc De Marie-Médiatrice',45.388729,-71.948977
+1389,'1389','Jolliet (No.1341)',45.387033,-71.949031
+1390,'1390','Jolliet / Galt Ouest',45.385952,-71.948992
+1393,'1393','École Du Triolet',45.382612,-71.947595
+1394,'1394','École Du Triolet',45.383571,-71.945529
+1398,'1398','Passage McGregor - O''Bready',45.409127,-71.945185
+1399,'1399','McGregor / Richard',45.411313,-71.945184
+1400,'1400','Émile-Cambron (No.1362)',45.425998,-71.868069
+1401,'1401','Brûlotte / Nathalie',45.428337,-71.864204
+1402,'1402','Després (No.1225)',45.426794,-71.864328
+1403,'1403','Roses / Véronique',45.427729,-71.861843
+1404,'1404','Quatre-Saisons / Blés',45.420429,-71.866518
+1405,'1405','McManamy (No.1560)',45.389547,-71.914056
+1406,'1406','McManamy (No.1560)',45.389656,-71.913230
+1408,'1408','Jolliet / Lisieux',45.381572,-71.948811
+1409,'1409','Richard (No.3135)',45.411398,-71.946772
+1412,'1412','Arsenault / Courville',45.381337,-71.898340
+1413,'1413','Arsenault / Dubreuil',45.381319,-71.900208
+1414,'1414','Philippe-Beaulieu / St-Roch Sud',45.348749,-71.993216
+1415,'1415','Philippe-Beaulieu (No.6541)',45.349887,-71.992099
+1416,'1416','Goddard / Duplessis',45.447204,-71.850389
+1417,'1417','Véronique (No.1005)',45.427458,-71.866633
+1424,'1424','Ste-Catherine / Roitelet',45.337779,-71.973542
+1425,'1425','North Hatley / Felton',45.350164,-71.945915
+1426,'1426','Bertrand-Fabi / Vétérans',45.375061,-71.964321
+1427,'1427','Ste-Catherine / St-Rock Sud',45.333221,-71.978546
+1428,'1428','Ste-Catherine / Lotbinière',45.319013,-71.989442
+1430,'1430','Kingston / Ancienne-Carrière',45.386292,-71.901337
+1431,'1431','Argenteuil / St-Rock Sud',45.348152,-71.988605
+1432,'1432','Ste-Catherine / Roitelet',45.337704,-71.973430
+1433,'1433','Colombe / Chemin De Ste-Catherine',45.350981,-71.951198
+1434,'1434','North Hatley / Felton',45.351010,-71.945381
+1435,'1435','North Hatley / Ste-Catherine',45.355819,-71.943626
+1436,'1436','Ste-Catherine / Montante',45.364291,-71.934626
+1438,'1438','Université (No.4137)',45.363026,-71.963714
+1439,'1439','Université / Albéric-Dussault',45.359971,-71.964053
+1440,'1440','Université / Labbé',45.354652,-71.970634
+1441,'1441','Vétérans (No.667)',45.375056,-71.968634
+1442,'1442','Vétérans (No.667)',45.375168,-71.967865
+1443,'1443','Vétérans / Viel',45.375196,-71.972220
+1444,'1444','Ste-Catherine / St-Rock Sud',45.332744,-71.978486
+1445,'1445','St-Roch Sud / North Hatley',45.328982,-71.963250
+1446,'1446','King Est / Alphonse-Laramée',45.408113,-71.867655
+1447,'1447','Portland / Northrop-Frye',45.403007,-71.956578
+1448,'1448','King Est (No.1050)',45.408158,-71.865728
+1453,'1453','7e Av. Nord / Zéphirin-Cormier',45.412163,-71.875779
+1454,'1454','Langlois / 7e Av. Nord',45.413813,-71.875828
+1456,'1456','Langlois / Assomption',45.413516,-71.879024
+1457,'1457','Langlois / St-Michel',45.413253,-71.880342
+1458,'1458','St-François Nord / Giet',45.410344,-71.892686
+1459,'1459','Galt Est / Lavigerie',45.396168,-71.868021
+1464,'1464','Conseil / Galt Est',45.406100,-71.853157
+1465,'1465','Conseil (No.1500)',45.405658,-71.855158
+1466,'1466','Conseil / Jean-Talon',45.403252,-71.861790
+1467,'1467','Conseil / Verger',45.403768,-71.858821
+1468,'1468','Conseil (No.1500)',45.405322,-71.855220
+1469,'1469','Conseil / Galt Est',45.405920,-71.852626
+1474,'1474','Galt Est / Lavigerie',45.396330,-71.868691
+1475,'1475','Parc Lucien-Blanchard',45.394124,-71.927948
+1476,'1476','Société De Transport De Sherbrooke',45.391954,-71.927845
+1478,'1478','King Ouest / Lomas',45.398488,-71.930117
+1479,'1479','Gervais / Genest',45.390596,-71.945952
+1480,'1480','Gervais / Delorme',45.389803,-71.947589
+1482,'1482','Jolliet / Duluth',45.382775,-71.948861
+1483,'1483','Lionel-Groulx / Passage La Dauversière',45.399026,-71.940962
+1484,'1484','Lionel-Groulx / Candiac',45.400834,-71.942135
+1485,'1485','Lionel-Groulx / Portland',45.403035,-71.942191
+1486,'1486','Lionel-Groulx / Candiac',45.400709,-71.942420
+1487,'1487','Lionel-Groulx / Passage La Dauversière',45.399153,-71.941348
+1488,'1488','Galt Ouest / Léonard',45.387082,-71.927983
+1489,'1489','Lachance / Simard',45.419788,-71.913623
+1493,'1493','Lindberg / Baron',45.422545,-71.888172
+1494,'1494','Parc Des Jeunes',45.424286,-71.891647
+1497,'1497','Louise / Brûlotte',45.428021,-71.879499
+1502,'1502','Pélerins / Louise',45.427378,-71.887012
+1503,'1503','Baron / Pélerins',45.429544,-71.887756
+1504,'1504','Université De Sherbrooke (Sciences)',45.381538,-71.924045
+1505,'1505','Université De Sherbrooke (Musique)',45.379724,-71.923616
+1506,'1506','Parc Des Jeunes',45.424450,-71.891862
+1507,'1507','Galt Ouest / Prunier',45.387106,-71.930538
+1508,'1508','Parc Caron',45.423090,-71.888033
+1509,'1509','Escadrille / Pèlerins',45.425295,-71.887191
+1513,'1513','Président-Kennedy / Frédéric',45.356510,-71.994132
+1514,'1514','Baron / Cessna',45.428849,-71.889913
+1518,'1518','Normand / Jetté',45.411616,-71.836867
+1519,'1519','Normand / Marceau',45.411466,-71.834721
+1520,'1520','Boudreau / Leblond',45.413481,-71.828878
+1522,'1522','Malouin / Lachance',45.419611,-71.917271
+1523,'1523','King Ouest / Lomas',45.398279,-71.930383
+1525,'1525','Jacques-Cartier Nord / Portland',45.403145,-71.918718
+1527,'1527','École Du Triolet',45.383386,-71.947637
+1534,'1534','St-Louis / Darche',45.383622,-71.890756
+1535,'1535','Union / St-Louis',45.386678,-71.891058
+1536,'1536','Université De Sherbrooke (Génie)',45.378294,-71.924772
+1541,'1541','LaRocque / McManamy',45.390046,-71.890223
+1542,'1542','Kennedy Nord / Holmes',45.412406,-71.894051
+1543,'1543','Holmes / Goretti',45.411711,-71.895190
+1545,'1545','Portland / McCrea',45.403973,-71.952954
+1546,'1546','King Ouest / Burlington',45.398003,-71.939919
+1548,'1548','Université / Montagnais',45.383280,-71.925145
+1549,'1549','Bachand / St-Esprit',45.383992,-71.929525
+1550,'1550','Bolduc / McGregor',45.406287,-71.945351
+1551,'1551','Richard / Bolduc',45.408223,-71.950676
+1552,'1552','McCrea / Thomas-Chapais',45.408004,-71.956252
+1553,'1553','McCrea / Charles-Hamel',45.410872,-71.956299
+1554,'1554','Wilfrid-Grégoire / McCrea',45.411493,-71.956029
+1555,'1555','Wilfrid-Grégoire / Louis-Riel',45.411511,-71.953589
+1556,'1556','Louis-Riel / Richard',45.408996,-71.950211
+1558,'1558','7e Av. Nord / Zéphirin-Cormier',45.412351,-71.875941
+1560,'1560','Parc Des Jardins-Fleuris',45.415327,-71.861764
+1565,'1565','Parc De Notre-Dame-Du-Rosaire',45.387130,-71.915434
+1566,'1566','Claire-Jolicoeur / Denault',45.388550,-71.915525
+1567,'1567','King Est / Crépeau',45.420582,-71.827900
+1568,'1568','King Est / Parrot',45.422283,-71.827129
+1569,'1569','Parc Jean-Claude-Quirion',45.401026,-71.869317
+1570,'1570','Parc Du Coeur-Immaculé-De-Marie',45.401134,-71.865133
+1572,'1572','College (No.3510)',45.364360,-71.884679
+1573,'1573','College (No.3510)',45.364428,-71.884722
+1574,'1574','College (No.199)',45.365153,-71.881158
+1575,'1575','College (No.199)',45.365045,-71.881062
+1579,'1579','Parc Du Bois-Beckett',45.416975,-71.930322
+1580,'1580','13e Av. Nord / 24-Juin',45.422519,-71.871545
+1582,'1582','Duplessis / Centre Julien-Ducharme',45.430512,-71.850472
+2001,'2001','Bowen Sud / Chalifoux',45.401215,-71.882130
+2002,'2002','Lavigerie / Walsh',45.394649,-71.867160
+2003,'2003','Lavigerie / Longpré',45.391416,-71.859743
+2005,'2005','Aubry / Caen',45.390127,-71.864650
+2006,'2006','Caen / Walsh',45.390438,-71.868966
+2007,'2007','Marie-Reine / Bowen',45.389578,-71.870378
+2008,'2008','Bowen Sud / Talbot',45.392069,-71.874131
+2009,'2009','Bowen Sud / Talbot',45.392267,-71.874812
+2010,'2010','Bowen Sud / Caen',45.390325,-71.871799
+2011,'2011','Marie-Reine / Bowen',45.389472,-71.869919
+2012,'2012','Caen / Walsh',45.390285,-71.868991
+2013,'2013','Bowen Sud / Aubry',45.387919,-71.864844
+2015,'2015','Lavigerie / Dagenais',45.388446,-71.859136
+2016,'2016','Lavigerie / Longpré',45.391262,-71.859497
+2017,'2017','Lavigerie / Walsh',45.394664,-71.866962
+2018,'2018','Parc Antonio-Montour',45.401028,-71.878331
+2019,'2019','Bowen Nord / Morkill',45.405955,-71.886620
+2020,'2020','St-François Nord / Giet',45.410156,-71.892599
+2021,'2021','Holmes / Goretti',45.411585,-71.895174
+2022,'2022','Kennedy Nord / Holmes',45.412428,-71.893694
+2023,'2023','Kennedy Nord (No.675)',45.411455,-71.892498
+2024,'2024','Kennedy Nord / Terrill',45.410018,-71.890810
+2025,'2025','Papineau / 12e Av. Nord',45.412052,-71.870931
+2026,'2026','Papineau / 10e Av. Nord',45.411423,-71.872759
+2027,'2027','École Laporte',45.410520,-71.875359
+2028,'2028','Assomption / Lemaire',45.414003,-71.879478
+2029,'2029','Langlois / 7e Av. Nord',45.413954,-71.876030
+2030,'2030','École Laporte',45.410595,-71.875894
+2031,'2031','Ste-Famille / 13e Av. Nord',45.410425,-71.869760
+2032,'2032','École De La Montée - Pavillon Le Ber',45.410430,-71.867818
+2033,'2033','Lys (Résidences)',45.420404,-71.863817
+2034,'2034','Lys / Quatre-Saisons',45.421390,-71.863630
+2035,'2035','Quatre-Saisons / Blés',45.420687,-71.866173
+2037,'2037','13e Av. Nord / 24-Juin',45.422330,-71.872815
+2038,'2038','Chalumeau / Galvin',45.402505,-71.823141
+2039,'2039','Parc Walter-Camden',45.402860,-71.827119
+2040,'2040','Chalumeau / Allard',45.402969,-71.830175
+2041,'2041','Allard / Galvin',45.405619,-71.829712
+2042,'2042','Merisiers / Cyprès',45.403212,-71.835756
+2043,'2043','Tilleuls / Merisiers',45.404561,-71.843828
+2044,'2044','Tilleuls / Trembles',45.402803,-71.846157
+2045,'2045','Trembles / Galvin',45.406103,-71.847568
+2046,'2046','Lavigerie / Chalifoux',45.400616,-71.870323
+2047,'2047','Lavigerie / Woodward',45.399379,-71.868243
+2048,'2048','Woodward / 10e Av. Sud',45.398947,-71.872259
+2049,'2049','Parc Antonio-Montour',45.401285,-71.878339
+2050,'2050','Conseil / Normandie',45.403705,-71.864844
+2051,'2051','Parc Desranleau',45.405935,-71.849701
+2052,'2052','Trembles / Galvin',45.405904,-71.847623
+2053,'2053','Tilleuls / Trembles',45.402709,-71.846286
+2054,'2054','Tilleuls / Merisiers',45.404454,-71.844020
+2055,'2055','Merisiers / Cyprès',45.403061,-71.835707
+2056,'2056','Cyprès / Bouleaux',45.404523,-71.840569
+2057,'2057','Bouleaux / Chemin Galvin',45.406639,-71.840325
+2058,'2058','Galvin / Raby',45.406608,-71.839208
+2059,'2059','Parc Gilles-Charland',45.406324,-71.835289
+2060,'2060','Allard / Galvin',45.405789,-71.829813
+2061,'2061','Chalumeau / Allard',45.402868,-71.829780
+2062,'2062','Parc Walter-Camden',45.402781,-71.827137
+2063,'2063','Chalumeau / Galvin',45.402660,-71.822775
+2064,'2064','Concorde / Vénus',45.427050,-71.893049
+2065,'2065','Concorde / Cessna',45.429086,-71.891510
+2066,'2066','Baron / Cessna',45.428769,-71.890031
+2067,'2067','Morineau / Brûlotte',45.428194,-71.876326
+2068,'2068','12e Av. Nord / 24-Juin',45.423062,-71.873946
+2069,'2069','Louise / Brûlotte',45.428161,-71.879482
+2070,'2070','Louise / Ste-Hélène',45.427450,-71.880476
+2071,'2071','Concorde / Vénus',45.427230,-71.893094
+2072,'2072','Comanche / Baron',45.425303,-71.892283
+2073,'2073','Jolliet / Galt Ouest',45.385782,-71.948811
+2075,'2075','Parc De Marie-Médiatrice',45.388444,-71.948999
+2076,'2076','Lisieux / Lachine',45.389060,-71.944357
+2077,'2077','Lisieux / Lachine',45.389712,-71.944235
+2078,'2078','Lisieux / Galt Ouest',45.386825,-71.944121
+2079,'2079','Galt Ouest / Université',45.386873,-71.924500
+2080,'2080','Thibault / Bacon',45.375176,-71.894961
+2081,'2081','Belvédère Sud (No.1855)',45.377049,-71.893715
+2082,'2082','Sara / Belvédère Sud',45.378720,-71.894402
+2083,'2083','Sara / Grands-Monts',45.380060,-71.896077
+2084,'2084','Boisés / Buissons',45.379386,-71.897139
+2085,'2085','Galt Ouest / Courcelette',45.393307,-71.898783
+2086,'2086','12e Av. Nord / Montpellier',45.424938,-71.871753
+2087,'2087','Brûlotte / 12e Av. Nord',45.428268,-71.868410
+2088,'2088','Brûlotte / 12e Av. Nord',45.428544,-71.868600
+2089,'2089','12e Av. Nord / Montpellier',45.424979,-71.872189
+2090,'2090','Mario / Boisés',45.380331,-71.897366
+2091,'2091','Belvédère Sud / Hallée',45.368467,-71.894222
+2092,'2092','Belvédère Sud / Thibault',45.375141,-71.893783
+2094,'2094','Montpellier / Brûlotte',45.428340,-71.872297
+2095,'2095','École De La Montée - Pavillon St-François',45.396182,-71.878252
+2096,'2096','Laurier / Aberdeen',45.396812,-71.888635
+2097,'2097','Chardonnerets / Marika',45.404102,-71.820543
+2098,'2098','Cristaux / Agates',45.405280,-71.823862
+2099,'2099','Diamants / Topazes',45.406148,-71.824742
+2100,'2100','Diamants / Rubis',45.408571,-71.826180
+2101,'2101','Diamants / Normand',45.410821,-71.826860
+2102,'2102','Harpin (No.3062)',45.411803,-71.825673
+2103,'2103','Nadeau / Harpin',45.412605,-71.826698
+2104,'2104','Boudreau / Vallières',45.413441,-71.827171
+2105,'2105','Allard / Boudreau',45.413687,-71.830881
+2107,'2107','Normand / Allard',45.411381,-71.829922
+2109,'2109','Normand / Marceau',45.411481,-71.833558
+2110,'2110','Normand / Jetté',45.411747,-71.836650
+2111,'2111','Raby / Normand',45.410679,-71.840440
+2112,'2112','King Est (No.2140)',45.411451,-71.842204
+2113,'2113','King Est / Evans',45.409794,-71.848343
+2114,'2114','King Est / Galt Est',45.408921,-71.851670
+2115,'2115','King Est / 13e Av. Sud',45.408112,-71.869477
+2116,'2116','Montréal / Dufferin',45.406618,-71.896179
+2117,'2117','Musée De La Nature Et Des Sciences De Sherbrooke',45.402763,-71.896372
+2118,'2118','Frontenac / Belvédère Nord',45.401723,-71.898131
+2119,'2119','King Ouest / Belvédère Sud',45.398791,-71.897026
+2120,'2120','Musée De La Nature Et Des Sciences De Sherbrooke',45.402900,-71.895851
+2121,'2121','Pont Gilbert-Hyatt',45.404581,-71.893774
+2122,'2122','Montréal / Dufferin',45.406829,-71.895884
+2123,'2123','Cristaux / Agates',45.405308,-71.824029
+2124,'2124','Chardonnerets / Marika',45.404301,-71.820667
+2125,'2125','McGregor / Sauvignon',45.413526,-71.945224
+2126,'2126','Mgr-Fortier / Francis-McCrea',45.424910,-71.955788
+2127,'2127','P. St-Joseph / Mgr-Fortier',45.424436,-71.963363
+2128,'2128','Josaphat-Rancourt / Plateau St-Joseph',45.420890,-71.966735
+2129,'2129','College / Archie-Mitchell',45.365376,-71.875136
+2130,'2130','Queen-Victoria / Moore',45.406004,-71.901468
+2131,'2131','Parc Du Champ-De-Mars',45.407293,-71.901709
+2132,'2132','McManamy / Adélard-Collette',45.389995,-71.888833
+2133,'2133','Évangéline / McManamy',45.390066,-71.887479
+2134,'2134','Évangéline / Union',45.387028,-71.887054
+2135,'2135','Darche / Évangéline',45.383838,-71.886788
+2136,'2136','Darche / Adélard-Colette',45.383730,-71.888688
+2137,'2137','St-Esprit / Galt Ouest',45.386883,-71.929280
+2138,'2138','Denault / Cabana',45.388092,-71.927522
+2139,'2139','Cabana / Roy',45.389755,-71.927495
+2140,'2140','Beckett / Jacques-Cartier Nord',45.416831,-71.918329
+2141,'2141','Mi-Vallon / Pavillon',45.378026,-71.978920
+2142,'2142','Mi-Vallon / Milan',45.379655,-71.980922
+2143,'2143','École De La Maisonnée',45.382946,-71.984486
+2144,'2144','Michel-Ange / Monet',45.383844,-71.987088
+2145,'2145','Magloire / Mûrier',45.382151,-71.988534
+2147,'2147','Henri-Bourassa / Frontière',45.359269,-72.005392
+2148,'2148','Henri-Bourassa / Frontière',45.359683,-72.004751
+2149,'2149','Henri-Bourassa / Faillon',45.359324,-72.000385
+2150,'2150','Président-Kennedy / Henri-Bourassa',45.358828,-71.994354
+2151,'2151','Henri-Bourassa / Harvard',45.358644,-71.990851
+2152,'2152','Henri-Bourassa / Hériot',45.358413,-71.986971
+2153,'2153','Hériott / Hélène-Boullé',45.361867,-71.986264
+2154,'2154','Hériot / Haut-Bois Sud',45.363056,-71.984385
+2155,'2155','Haut-Bois Sud / Henri',45.365327,-71.985521
+2156,'2156','Gaspé / Haut-Bois Sud',45.368787,-71.988205
+2157,'2157','Magloire / Mûrier',45.381942,-71.988414
+2158,'2158','Michel-Ange / Monet',45.383690,-71.987120
+2159,'2159','École De La Maisonnée',45.383012,-71.984736
+2160,'2160','Mi-Vallon / Milan',45.379729,-71.981190
+2161,'2161','Pavillon / Magellan',45.378201,-71.978393
+2162,'2162','Lisieux / Brûlé',45.384123,-71.944142
+2163,'2163','Pacifique / Galt Ouest',45.391819,-71.903260
+2164,'2164','Pacifique / Kitchener',45.391943,-71.905503
+2165,'2165','Claire-Jolicoeur / Denault',45.388741,-71.915735
+2166,'2166','Manoir (No.2775 Rond-Point)',45.402600,-71.943538
+2167,'2167','Manoir / Érables',45.402343,-71.946915
+2168,'2168','Carrefour De L''Estrie (Target)',45.402244,-71.948689
+2169,'2169','Carrefour De L''Estrie (Archambault)',45.402236,-71.956531
+2170,'2170','Don Bosco Nord / Chênes',45.400093,-71.952453
+2171,'2171','Don Bosco Nord / Chênes',45.400176,-71.950907
+2172,'2172','Don Bosco Nord / Bel-Air',45.396802,-71.948705
+2173,'2173','Parc Du Grand-Saule',45.390160,-71.919855
+2174,'2174','McManamy / Haig',45.389612,-71.908616
+2175,'2175','École De L''Écollectif',45.387119,-71.893169
+2176,'2176','McManamy / St-Louis',45.389853,-71.891550
+2177,'2177','St-Louis / Mère-Terésa',45.391192,-71.891512
+2178,'2178','École LaRocque',45.392520,-71.890931
+2179,'2179','Parc Jude-O.-Camirand',45.397755,-71.894101
+2180,'2180','École Sacré-Cœur',45.397707,-71.892927
+2181,'2181','Parc Du Coeur-Immaculé-De-Marie',45.401265,-71.864780
+2182,'2182','Chalifoux / Longpré',45.401201,-71.861222
+2183,'2183','Rouen / Chalifoux',45.401610,-71.858261
+2184,'2184','Kennedy Sud / Biron',45.404160,-71.883682
+2185,'2185','Galt Est / Lavigerie',45.396962,-71.867442
+2186,'2186','Lavigerie / Woodward',45.399142,-71.867720
+2187,'2187','Parc Du Coeur-Immaculé-De-Marie',45.401118,-71.864862
+2188,'2188','Terrasses 777',45.408398,-71.872616
+2189,'2189','Papineau / 10e Av. Nord',45.411239,-71.872677
+2190,'2190','Papineau / 10e Av. Nord',45.411070,-71.872822
+2191,'2191','Terrasses 777',45.408125,-71.872808
+2193,'2193','Woodward / Lavigerie',45.399318,-71.867644
+2194,'2194','Galt Est / Lavigerie',45.396364,-71.867747
+2196,'2196','Kennedy Sud / King Est',45.404722,-71.883918
+2197,'2197','Rouen / Chalifoux',45.401339,-71.858398
+2198,'2198','Chalifoux / Longpré',45.401323,-71.860879
+2199,'2199','Parc Jude-O.-Camirand',45.397832,-71.894549
+2201,'2201','St-Louis / Mère-Terésa',45.391184,-71.891675
+2202,'2202','McManamy / St-Louis',45.389974,-71.891622
+2203,'2203','Bienville / McManamy',45.389575,-71.893420
+2204,'2204','Dunant / Boisés',45.383651,-71.898299
+2205,'2205','McManamy / Dieppe',45.389682,-71.911843
+2206,'2206','Lisieux / Brûlé',45.384007,-71.943991
+2207,'2207','King Ouest / Don Bosco Nord',45.395875,-71.947189
+2208,'2208','Don Bosco Nord / Chênes',45.400136,-71.950612
+2209,'2209','Carrefour De L''Estrie (Target)',45.402147,-71.948254
+2223,'2223','Marais Réal-D-Carbonneau',45.414792,-71.901118
+2226,'2226','Parc Des Jardins-Fleuris',45.415282,-71.862249
+2229,'2229','Pélerins / Louise',45.427203,-71.887054
+2237,'2237','Léger / Industriel',45.395583,-71.971548
+2238,'2238','Tourterelles / Croteau',45.401266,-72.010003
+2239,'2239','Croteau / Geais',45.398965,-72.010156
+2240,'2240','St-Élie / Circé',45.394890,-72.014732
+2242,'2242','École Du Triolet / Parc Innovation',45.380135,-71.943734
+2252,'2252','13e Av. Nord / 24-Juin',45.422616,-71.872594
+2253,'2253','Frontenac / Belvédère Nord',45.401549,-71.898054
+2254,'2254','Allard / Rubis',45.408777,-71.829684
+2255,'2255','Allard / Galvin',45.405945,-71.829714
+2256,'2256','Portland / Pépin',45.402808,-71.968086
+2257,'2257','Pépin / Garlock',45.406855,-71.968743
+2258,'2258','Pépin / Industriel',45.412767,-71.966288
+2259,'2259','Industriel / Garlock',45.407479,-71.964004
+2260,'2260','Industriel / Sortie A-410',45.404842,-71.963766
+2261,'2261','Papineau / Coquelicots',45.415597,-71.859329
+2262,'2262','Merisiers (No.2271)',45.403752,-71.840114
+2263,'2263','Merisiers (No.2271)',45.403579,-71.839379
+2265,'2265','Concorde / Cessna',45.428802,-71.891618
+2267,'2267','Letendre / Galt Ouest',45.384994,-71.949997
+2268,'2268','Letendre / Duluth',45.382708,-71.949917
+2269,'2269','Woodward / Normandie',45.399649,-71.865164
+2270,'2270','Woodward / Normandie',45.399529,-71.865141
+2271,'2271','Émery-Fontaine (No.6410)',45.351060,-71.988945
+2272,'2272','Émery-Fontaine (No.6410)',45.351167,-71.989042
+2273,'2273','13e Av. Nord / 24-Juin',45.422633,-71.871359
+2274,'2274','Mi-Vallon / Pavillon',45.377935,-71.979169
+2275,'2275','Évangéline / Côte De L''Acadie',45.388676,-71.887224
+2276,'2276','Don-Bosco Nord - King Ouest',45.396177,-71.947880
+2277,'2277','École Du St-Esprit',45.387153,-71.933412
+2278,'2278','King Ouest (No.3000)',45.396171,-71.945756
+2279,'2279','Ste-Catherine (No.5267)',45.322989,-71.987538
+2280,'2280','12e Av. Nord / A-610',45.434081,-71.868249
+2281,'2281','12e Av. Nord / A-610',45.434220,-71.868483
+2282,'2282','Queen / Convent',45.377631,-71.865276
+2283,'2283','CHUS Fleurimont (Centre De Recherche)',45.449222,-71.870428
+2284,'2284','CSSS-IUGS Pavillon D''Youville',45.389807,-71.892619
+2285,'2285','James-Quintin / 12e Av. Nord',45.444109,-71.867866
+2286,'2286','James-Quintin / Ida-Métivier',45.445002,-71.870560
+2287,'2287','CHUS Fleurimont (Entrée Principale)',45.447769,-71.870046
+2289,'2289','James-Quintin / Ida-Métivier',45.445123,-71.871195
+2290,'2290','James-Quintin / 12e Av. Nord',45.443798,-71.867592
+2291,'2291','Lionel-Groulx / Sauvignon',45.413565,-71.943511
+2292,'2292','Langlois / Codère',45.413886,-71.877242
+2293,'2293','Langlois / Codère',45.413724,-71.877551
+2294,'2294','Stationnement Alternatif Nortrhop Frye',45.404795,-71.955094
+2295,'2295','Place Fleurimont',45.410697,-71.851939
+2296,'2296','Galvin / Lucien-Brunelle',45.406692,-71.844386
+2297,'2297','Centre Julien-Ducharme',45.432620,-71.852702
+2298,'2298','Brûlotte / Nathalie',45.428476,-71.864518
+2299,'2299','Brûlotte / 12e Av. Nord',45.428467,-71.868196
+2300,'2300','SPA Estrie',45.416329,-71.905913
+2301,'2301','Brûlotte / 12e Av. Nord',45.428316,-71.867275
+2302,'2302','Centre Julien-Ducharme',45.432470,-71.852728
+2303,'2303','Brûlotte / Nathalie',45.428327,-71.864716
+2304,'2304','Séminaire Salésien',45.397758,-71.949416
+2305,'2305','SPA Estrie',45.416549,-71.906189
+2306,'2306','King Ouest / Farwell',45.398668,-71.926217
+2307,'2307','Parc Du Marquis-De-Montcalm',45.401634,-71.926472
+2308,'2308','Portland / Farwell',45.403634,-71.926391
+2309,'2309','CSSS-IUGS Pavillon Argyll',45.404498,-71.913223
+2310,'2310','Prospect / Argyll',45.409112,-71.913123
+2311,'2311','Argyll / Desgagné',45.412674,-71.912730
+2312,'2312','Desgagné / St-Alphonse',45.412575,-71.909926
+2313,'2313','Bibliothèque Éva -Senécal',45.400166,-71.897107
+2314,'2314','Séminaire De Sherbrooke',45.402964,-71.893349
+2315,'2315','Marquette / Frontenac',45.404182,-71.893534
+2316,'2316','Hôtel-De-Ville',45.404161,-71.892250
+2317,'2317','Wellington Nord / King Ouest',45.401808,-71.890783
+2318,'2318','Grandes-Fourches (No.150)',45.399925,-71.887539
+2319,'2319','Kennedy Sud / Conseil',45.403536,-71.883075
+2320,'2320','Place Fleurimont - Supermarché',45.410502,-71.848740
+2321,'2321','Place Fleurimont - Supermarché',45.411220,-71.850630
+2322,'2322','Papineau / Coquelicots',45.415729,-71.859295
+2323,'2323','Place Fleurimont - Supermarché',45.411062,-71.850426
+2324,'2324','Place Fleurimont - Supermarché',45.410419,-71.848902
+2325,'2325','Grandes-Fourches (No.150)',45.399857,-71.887196
+2326,'2326','Wellington Nord / King Ouest',45.401996,-71.890689
+2327,'2327','Hôtel-De-Ville',45.404166,-71.891992
+2328,'2328','Marquette / Frontenac',45.404106,-71.893615
+2329,'2329','Séminaire De Sherbrooke',45.403103,-71.893457
+2330,'2330','Bibliothèque Éva -Senécal',45.400097,-71.897458
+2331,'2331','Desgagné / St-Alphonse',45.412693,-71.910564
+2332,'2332','Argyll / Desgagné',45.412797,-71.912974
+2333,'2333','Prospect / Argyll',45.409303,-71.913305
+2334,'2334','CSSS-IUGS Pavillon Argyll',45.404811,-71.913378
+2335,'2335','Portland / Farwell',45.403259,-71.926615
+2336,'2336','Parc Du Marquis-De-Montcalm',45.401703,-71.926623
+2337,'2337','Holmes / Goretti',45.412107,-71.895819
+2338,'2338','Passage Kennedy Nord - Lévesque',45.414406,-71.896448
+2339,'2339','9e Av. Sud (No.58)',45.405754,-71.873563
+2340,'2340','9e Av. Sud (No.58)',45.405766,-71.873858
+2341,'2341','Passage Kennedy Nord - Lévesque',45.414552,-71.896138
+2342,'2342','Holmes / Goretti',45.411945,-71.895864
+2343,'2343','Sauvignon / McGregor',45.413746,-71.945197
+2344,'2344','Argyll / Dominion',45.406484,-71.913177
+2345,'2345','Argyll / Dominion',45.406852,-71.913336
+2346,'2346','CHUS Hôtel-Dieu (Entrée Principale)',45.398725,-71.879134
+2347,'2347','Kennedy Sud / Conseil',45.403435,-71.883136
+2348,'2348','Kennedy Sud / Biron',45.404045,-71.883394
+2349,'2349','9e Av. Sud / Conseil',45.404045,-71.873561
+2350,'2350','9e Av. Nord / King Est',45.407903,-71.873632
+2351,'2351','Duplessis (Entrée Supermarché)',45.411227,-71.851724
+2352,'2352','Duplessis (Entrée Supermarché)',45.411126,-71.851317
+2353,'2353','Papineau / Duplessis',45.416562,-71.851809
+2354,'2354','Papineau / Duplessis',45.416471,-71.852305
+2355,'2355','Bishop''S (Stade Coulter Field)',45.366191,-71.843455
+2356,'2356','College (Ferme Expérimentale)',45.369197,-71.829093
+2357,'2357','Alexander-Galt',45.365296,-71.815462
+2358,'2358','Bishop''S (Stade Coulter Field)',45.365992,-71.843385
+2359,'2359','St.Francis / Moulton Hill',45.369471,-71.847064
+2360,'2360','St.Francis / Atto',45.375479,-71.851336
+2361,'2361','Parc Atto-Beaver',45.377908,-71.852757
+2362,'2362','Beattie / Willowdale',45.379388,-71.848425
+2363,'2363','Champigny / Willowdale',45.376664,-71.843776
+2364,'2364','Atto / Moulton Hill',45.374990,-71.841800
+2365,'2365','Bishop''S College School',45.371044,-71.844929
+2366,'2366','College (Ferme Expérimentale)',45.369422,-71.829063
+2367,'2367','Bowen Sud / Conseil',45.402934,-71.884246
+2368,'2368','Route 220 / Bon-Vent',45.390694,-72.057919
+2369,'2369','Route 220 (No.7867)',45.390095,-72.059906
+2370,'2370','Route 220 (No.7867)',45.389885,-72.059994
+2373,'2373','Lionel-Groulx / Arnold-Pryce',45.421854,-71.947295
+2374,'2374','Lionel-Groulx / Arnold-Pryce',45.422065,-71.947558
+2375,'2375','Lionel-Groulx / Sauvignon',45.413870,-71.943380
+2376,'2376','Grandes-Fourches Sud / Aberdeen',45.397266,-71.886142
+2377,'2377','Pont Joffre / Grandes-Fourches',45.394038,-71.883130
+2378,'2378','Pont Joffre / Grandes-Fourches',45.395058,-71.883649
+2379,'2379','Grandes-Fourches Sud / Aberdeen',45.397616,-71.885981
+2380,'2380','Terrill / Cégep',45.412514,-71.886541
+2381,'2381','Jacques-Cartier / King Ouest',45.398660,-71.919621
+2382,'2382','Manoir / Érables',45.402383,-71.944873
+2383,'2383','Farwell (No.80)',45.399645,-71.926412
+2384,'2384','Farwell (No.80)',45.399616,-71.926563
+2385,'2385','Quatre-Saisons / 12e Av. Nord',45.419980,-71.873194
+2386,'2386','King Est (No.1390)',45.408984,-71.857305
+2387,'2387','Séminaire Salésien',45.397873,-71.949738
+2388,'2388','Kennedy Nord / Goretti',45.412747,-71.896550
+2389,'2389','Kennedy Nord / Goretti',45.412885,-71.896634
+2390,'2390','Base De Plein Air André-Nadeau',45.334389,-71.992942
+2391,'2391','Galt Ouest / McManamy',45.389768,-71.905996
+2392,'2392','McManamy / Fairmount',45.389511,-71.903174
+2394,'2394','Dunant / Raoul-Bruneau',45.384791,-71.897487
+2395,'2395','Dunant / Raoul-Bruneau',45.385015,-71.897672
+2396,'2396','Kennedy Nord / Holmes',45.412536,-71.893512
+2397,'2397','Kennedy Nord / Holmes',45.412639,-71.893904
+2398,'2398','Denault / St-Denis',45.388553,-71.919513
+2399,'2399','Plateau Marquette',45.401523,-71.894912
+2400,'2400','Plateau Marquette',45.401807,-71.894750
+2401,'2401','King Est (No.1175)',45.408077,-71.863421
+2402,'2402','King Est (No.1175)',45.408324,-71.863131
+2403,'2403','Halte Des Pionniers',45.403215,-71.891389
+2404,'2404','Halte Des Pionniers',45.403281,-71.891537
+2405,'2405','Argyll / Durham',45.407765,-71.913156
+2406,'2406','Argyll / Durham',45.407949,-71.913316
+2407,'2407','Bowen Sud / Johnson',45.400114,-71.881410
+2408,'2408','King Est / 8e Av. Nord',45.407990,-71.874947
+2409,'2409','King Est / 8e Av. Nord',45.408117,-71.874590
+2411,'2411','Belvédère Sud / College',45.363154,-71.895135
+2412,'2412','College / Belvédère Sud',45.362787,-71.894360
+2413,'2413','Cimes (No.1901)',45.432945,-71.897343
+2414,'2414','Conseil / 13e Av. Sud',45.403780,-71.869349
+2415,'2415','King Est / Evans',45.409858,-71.848593
+2416,'2416','King Est / Evans',45.409896,-71.848417
+2417,'2417','Centre De Foires De Sherbrooke',45.422289,-71.964911
+2418,'2418','Centre De Foires De Sherbrooke',45.422597,-71.965106
+2419,'2419','Université / A-410',45.377159,-71.948543
+2420,'2420','Université / A-410',45.376604,-71.950337
+2421,'2421','Bowen Sud / Allen',45.394239,-71.876759
+2422,'2422','Bowen Sud / Trudelle',45.388874,-71.869654
+2423,'2423','Bowen Sud / Aubry',45.387490,-71.864411
+2424,'2424','Marie-Reine / Bowen',45.389412,-71.870028
+2426,'2426','Bowen Sud / Allen',45.394166,-71.876440
+2427,'2427','Place Des Moulins',45.404802,-71.892336
+2428,'2428','Parc Industriel De L''Est',45.392902,-71.862054
+2429,'2429','Parc Industriel De L''Est',45.392942,-71.861693
+2430,'2430','CHUS Fleurimont (Résidences)',45.449785,-71.869620
+2431,'2431','Chênes (No.3078)',45.400268,-71.952452
+2432,'2432','Stationnement Alternatif King / Comtois',45.387690,-71.958275
+2433,'2433','Comtois / King Ouest',45.387738,-71.959860
+2434,'2434','Comtois / King Ouest',45.387890,-71.959739
+2435,'2435','2875 Du Manoir',45.402346,-71.945964
+2436,'2436','Lionel-Groulx / Sauvignon',45.414320,-71.943356
+2437,'2437','Rond-Point Courcelette',45.386681,-71.898113
+2438,'2438','Westmount / Courcelette',45.387984,-71.898446
+2439,'2439','Westmount / Courcelette',45.388180,-71.898519
+2440,'2440','Industriel / Missisquoi',45.395542,-71.981658
+2441,'2441','Industriel / Barton',45.395459,-71.978948
+2442,'2442','Industriel / Barton',45.395638,-71.978562
+2443,'2443','Bolduc / O''Bready',45.407062,-71.948187
+2444,'2444','Bolduc / O''Bready',45.407172,-71.948186
+2445,'2445','Industriel (No. 3250)',45.410609,-71.964463
+2446,'2446','St-Lambert / Paquin',45.468820,-71.933958
+2447,'2447','St-Lambert / Paquin',45.468726,-71.934090
+2448,'2448','Capucines / Quatre-Saisons',45.421536,-71.861591
+2449,'2449','Capucines (No. 927)',45.419360,-71.862650
+2450,'2450','Capucines / Fleurs-De-Mai',45.417505,-71.859180
+2451,'2451','King Est / Allard',45.415214,-71.832045
+2452,'2452','Ste-Catherine / Felton',45.349075,-71.954884
+2453,'2453','Ste-Catherine / Labbé',45.349361,-71.954682
+2454,'2454','Argenteuil / St-Roch Sud',45.348241,-71.988715
+2455,'2455','Galt Est / Longpré',45.398096,-71.860577
+2456,'2456','Galt Est / Longpré',45.397951,-71.860552
+2457,'2457','Place Dussault',45.348987,-71.988458
+2459,'2459','Galt Ouest / St-Pierre',45.394421,-71.892459
+2460,'2460','Galt Ouest / Alexandre',45.394254,-71.890307
+2461,'2461','Jacques-Cartier Sud / King Ouest',45.398466,-71.918598
+2463,'2463','King Est / Jetté',45.412321,-71.837379
+3005,'3005','(Virtuel) Jean-Paul-Perrault / Portland Ouest',45.403215,-71.958031
+3009,'3009','(Virtuel) Terrill / Grandes-Fourches',45.407477,-71.894262
+3011,'3011','(Virtuel) Autoroutes 10 / 610',45.438653,-71.955743
+3012,'3012','(Virtuel) Autoroutes 10 / 410',45.422798,-71.974509
+10001,'1A','Station Du Dépôt - Quai A',45.401497,-71.889139
+10170,'170A','Université De Sherbrooke - Quai A',45.378615,-71.929310
+10298,'298A','Carrefour De L''Estrie - Quai A',45.402270,-71.952806
+10501,'501A','Station Du Cégep - Quai A',45.411836,-71.884109
+20001,'1B','Station Du Dépôt - Quai B',45.401312,-71.889222
+20170,'170B','Université De Sherbrooke - Quai B',45.378658,-71.929493
+20298,'298B','Carrefour De L''Estrie - Quai B',45.402358,-71.952818
+20501,'501B','Station Du Cégep - Quai B',45.411771,-71.884569
+30001,'1C','Station Du Dépôt - Quai C',45.401114,-71.889258
+30170,'170C','Université De Sherbrooke - Quai C',45.378780,-71.929462
+30501,'501C','Station Du Cégep - Quai C',45.411736,-71.884797
+40001,'1D','Station Du Dépôt - Quai D',45.400926,-71.889173
+40170,'170D','Université De Sherbrooke - Quai D',45.378760,-71.929294
+40501,'501D','Station Du Cégep - Quai D',45.411415,-71.884355
+50001,'1E','Station Du Dépôt - Quai E',45.401140,-71.888622
+50170,'170E','Université De Sherbrooke - Quai E',45.378632,-71.929290
+50501,'501E','Station Du Cégep - Quai E',45.411453,-71.884168
+60001,'1F','Station Du Dépôt - Quai F',45.401253,-71.888683
+60501,'501F','Station Du Cégep - Quai F',45.411500,-71.883917
+70001,'1G','Station Du Dépôt - Quai G',45.401402,-71.888763
+70501,'501G','Station Du Cégep - Quai G',45.411540,-71.883709
+80001,'1H','Station Du Dépôt - Quai H',45.401553,-71.888838
+90001,'1I','Station Du Dépôt - Quai I',45.401703,-71.888916
+100001,'1J','Station Du Dépôt - Quai J',45.401064,-71.888936
+110001,'1K','Station Du Dépôt - Quai K',45.401185,-71.888890
