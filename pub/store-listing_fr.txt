@@ -1,16 +1,16 @@
-Title: Bus STS de Sherbrooke - MonTransit
+Title: Bus STS Sherbrooke - MonTrans…
 ----------
 Short description: Informations des bus de la STS à Sherbrooke pour MonTransit BETA.
 ----------
 What's new in this version?:
-BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
-
 Horaires du 5 Janvier 2015 au 14 Juin 2015.
+
+BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
 ----------
 Full description:
-BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
-
 Cette application ajoute les informations des bus STS de Sherbrooke à MonTransit BETA.
+
+BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
 
 La STS dessert Sherbrooke.
 
