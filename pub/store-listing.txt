@@ -10,7 +10,7 @@ Schedule from January 5, 2015 to June 14, 2015.
 Full description:
 This application adds Sherbrooke STS buses information to MonTransit.
 
-STS serves Sherbrooke.
+STS serves Sherbrooke in Quebec, Canada.
 
 Once this application is installed, the MonTransit app will display buses information (schedule...).
 
