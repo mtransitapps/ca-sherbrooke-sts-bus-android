@@ -52,7 +52,7 @@
 90,'90','Queen (No.172)',45.369172,-71.8569
 91,'91','Queen / College',45.367005,-71.856661
 92,'92','College / Little Forks',45.366075,-71.852759
-93,'93','U. Bishop''S / Collège Champlain',45.366406,-71.847997
+93,'93','U. Bishop''s / Collège Champlain',45.366406,-71.847997
 94,'94','College / Little Forks',45.366247,-71.853083
 95,'95','College / Queen',45.366324,-71.857238
 96,'96','College / Parkdale',45.36652,-71.859943
@@ -182,7 +182,7 @@
 260,'260','King Ouest / Peel',45.400007,-71.89337
 261,'261','Place De La Cité',45.39949,-71.894839
 262,'262','King Ouest / Belvédère Nord',45.399081,-71.896117
-263,'263','Centre D''Information Touristique',45.398749,-71.901579
+263,'263','Centre D''information Touristique',45.398749,-71.901579
 264,'264','King Ouest / Québec',45.398972,-71.904382
 265,'265','King Ouest / Ontario',45.398843,-71.907791
 266,'266','King Ouest / Vimy',45.398809,-71.910181
@@ -251,7 +251,7 @@
 342,'342','King Ouest / Vimy',45.398563,-71.911042
 343,'343','King Ouest / Ontario',45.398664,-71.908427
 344,'344','King Ouest / Québec',45.398785,-71.904825
-345,'345','Centre D''Information Touristique',45.398608,-71.901913
+345,'345','Centre D''information Touristique',45.398608,-71.901913
 346,'346','King Ouest / Belvédère Sud',45.398525,-71.896916
 347,'347','Place De La Cité',45.39944,-71.894349
 349,'349','King Ouest / Brooks',45.40025,-71.892192
@@ -623,13 +623,13 @@
 910,'910','St-Élie / Laliberté',45.393783,-72.049728
 915,'915','Parc Félix-Thibault',45.404355,-71.88525
 916,'916','Parc De La St-François',45.407009,-71.888723
-917,'917','Parc Du Mena''Sen',45.411279,-71.895298
+917,'917','Parc Du Mena''sen',45.411279,-71.895298
 918,'918','Savoie / Poitou',45.450394,-71.92225
 919,'919','Poitou / Alsace',45.449014,-71.921261
 920,'920','Parc Valère-Patoine',45.451516,-71.917842
 921,'921','Champfleur / Beaucours',45.458145,-71.915464
 922,'922','Champfleur / Côte De Beauvoir',45.460525,-71.913985
-923,'923','Parc Du Mena''Sen',45.411149,-71.895623
+923,'923','Parc Du Mena''sen',45.411149,-71.895623
 924,'924','St-Élie / Bell',45.394107,-72.044246
 925,'925','Duplessis / Lemire',45.422336,-71.850303
 926,'926','Duplessis / Lemire',45.422027,-71.850396
@@ -1345,17 +1345,17 @@
 2352,'2352','Duplessis (Entrée Supermarché)',45.411126,-71.851317
 2353,'2353','Papineau / Duplessis',45.416562,-71.851809
 2354,'2354','Papineau / Duplessis',45.416471,-71.852305
-2355,'2355','Bishop''S (Stade Coulter Field)',45.366191,-71.843455
+2355,'2355','Bishop''s (Stade Coulter Field)',45.366191,-71.843455
 2356,'2356','College (Ferme Expérimentale)',45.369197,-71.829093
 2357,'2357','Alexander-Galt',45.365296,-71.815462
-2358,'2358','Bishop''S (Stade Coulter Field)',45.365992,-71.843385
+2358,'2358','Bishop''s (Stade Coulter Field)',45.365992,-71.843385
 2359,'2359','St.Francis / Moulton Hill',45.369471,-71.847064
 2360,'2360','St.Francis / Atto',45.375479,-71.851336
 2361,'2361','Parc Atto-Beaver',45.377908,-71.852757
 2362,'2362','Beattie / Willowdale',45.379388,-71.848425
 2363,'2363','Champigny / Willowdale',45.376664,-71.843776
 2364,'2364','Atto / Moulton Hill',45.37499,-71.8418
-2365,'2365','Bishop''S College School',45.371044,-71.844929
+2365,'2365','Bishop''s College School',45.371044,-71.844929
 2366,'2366','College (Ferme Expérimentale)',45.369422,-71.829063
 2367,'2367','Bowen Sud / Conseil',45.402934,-71.884246
 2368,'2368','Route 220 / Bon-Vent',45.390694,-72.057919
