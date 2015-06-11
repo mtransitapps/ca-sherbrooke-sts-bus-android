@@ -20,8 +20,6 @@
 1101,0,'U. Bishop''s',11
 1201,0,'Carrefour De L''Estrie',12
 1200,0,'Cégep',12
-1301,0,'Campus',13
-1300,0,'Raby / Normand',13
 1401,0,'Campus',14
 1400,0,'Cégep',14
 1501,0,'Campus',15
@@ -67,3 +65,39 @@
 5701,0,'Carrefour De L''Estrie',57
 999901,0,'IGA Extra / King Ouest',9999
 999900,0,'Northrop-Frye',9999
+1900300,0,'Dépôt',19003
+1900301,0,'Galt O. / Lisieux',19003
+1900400,0,'13e Av. / 24-Juin / King E. / Raby / Dépôt',19004
+1900401,0,'Carrefour De L''Estrie / Dépôt',19004
+1900700,0,'Carrefour De L''Estrie / Dépôt',19007
+1900800,0,'CHUS (Urgence)',19008
+1900801,0,'Dépôt',19008
+1901201,0,'Carrefour De L''Estrie',19012
+1901200,0,'Dépôt',19012
+1901700,0,'Carrefour De L''Estrie / Cégep',19017
+1901800,0,'Campus',19018
+1901801,0,'Place Dussault',19018
+1901900,0,'Cégep',19019
+2400100,0,'Bowen - Talbot / Dépôt',24001
+2400101,0,'Cégep',24001
+2400300,0,'13e Av. / 24-Juin',24003
+2400301,0,'Cégep / Dépôt',24003
+2400401,0,'Carrefour De L''Estrie / Galt E. / Conseil',24004
+2400400,0,'Cégep',24004
+2400500,0,'13e Av. / 24-Juin',24005
+2400600,0,'Campus',24006
+2400601,0,'Lisieux / Lachine',24006
+2400700,0,'13e Av. / 24-Juin / Cégep',24007
+2400701,0,'Cégep',24007
+2400800,0,'13e Av. / 24-Juin / Dépôt',24008
+2400801,0,'Campus',24008
+2400900,0,'Chardonnerets / Marika / Cégep',24009
+2401101,0,'Carrefour De L''Estrie / Habitat / André',24011
+2401100,0,'Carrefour De L''Estrie / Plateau St-Joseph',24011
+2401201,0,'Carrefour De L''Estrie / Prospect / Ontario',24012
+2401200,0,'Cégep / Dépôt / Prospect / Ontario',24012
+2401601,0,'Campus',24016
+2401600,0,'Prospect / Ontario',24016
+2401701,0,'Carrefour De L''Estrie',24017
+2401700,0,'Cégep',24017
+2401901,0,'Lisieux / Brûlé',24019
