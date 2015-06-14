@@ -2,15 +2,18 @@ Title: Sherbrooke STS Bus - MonTrans…
 ----------
 Short description:
 Sherbrooke STS buses for MonTransit.
-Schedule…
+Schedule. News.
 ----------
 What's new in this version?:
-Schedule from January 5, 2015 to June 14, 2015.
+Schedule from June 15, 2015 to August 16, 2015.
+News from www.sts.qc.ca.
 ----------
 Full description:
 This application adds Sherbrooke STS buses information to MonTransit.
 
-STS serves Sherbrooke in Quebec, Canada.
+This app contains the buses schedule and the latest news from www.sts.qc.ca.
+
+STS buses serve Sherbrooke in Quebec, Canada.
 
 Once this application is installed, the MonTransit app will display buses information (schedule...).
 
@@ -25,6 +28,9 @@ This application is free and open-source:
 https://github.com/mtransitapps/ca-sherbrooke-sts-bus-android
 
 This app is not related with Société de Transport de Sherbrooke.
+
+Permissions:
+- Other: required to read news from www.sts.qc.ca
 ----------
 Application type: Applications
 ----------
