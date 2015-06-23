@@ -2,7 +2,7 @@
 2,'2','Pont Aylmer',45.402473,-71.88779
 5,'5','Bowen Sud / Johnson',45.400024,-71.881555
 6,'6','Bowen Sud (CHUS - Hôtel-Dieu)',45.39882,-71.88047
-7,'7','École De La Montée - Pavillon St-François',45.396566,-71.878515
+7,'7','École De La Mtée - Pavillon St-François',45.396566,-71.878515
 12,'12','Aubry / Caen',45.390384,-71.865086
 16,'16','Lavigerie / Bowen Sud',45.387921,-71.859305
 18,'18','Bowen Sud / Aubry',45.387616,-71.864496
@@ -24,7 +24,7 @@
 46,'46','Prospect / Bouchette',45.409036,-71.925113
 47,'47','Prospect / Paul-Desruisseaux',45.409045,-71.930774
 48,'48','Prospect / Duvernay',45.410823,-71.936988
-54,'54','Pl. St-Joseph',45.418354,-71.965602
+54,'54','Plateau St-Joseph',45.418354,-71.965602
 56,'56','École Mitchell-Montcalm - Pavillon Montcalm',45.40363,-71.923832
 57,'57','Portland / Wood',45.403591,-71.920843
 58,'58','Jacques-Cartier Nord / Portland',45.404088,-71.918452
@@ -192,7 +192,7 @@
 270,'270','King Ouest / Fraser',45.398431,-71.923416
 271,'271','King Ouest #3200',45.394821,-71.949204
 272,'272','King Ouest / Farwell',45.398312,-71.92685
-273,'273','Promenades King (Stationnement)',45.3994,-71.929216
+273,'273','Promenades King (Stat)',45.3994,-71.929216
 274,'274','King Ouest / Lomas',45.398824,-71.930345
 275,'275','King Ouest / Clark',45.398446,-71.932606
 276,'276','King Ouest / Carillon',45.39841,-71.934221
@@ -242,7 +242,7 @@
 333,'333','King Ouest / Quatre-Pins',45.398186,-71.934089
 334,'334','King Ouest / Clark',45.398234,-71.932346
 335,'335','King Ouest / Lomas',45.398854,-71.930153
-336,'336','Promenades King (Stationnement)',45.399194,-71.929198
+336,'336','Promenades King (Stat)',45.399194,-71.929198
 337,'337','King Ouest / Farwell',45.398052,-71.926086
 338,'338','King Ouest / Fraser',45.398286,-71.922794
 339,'339','Jacques-Cartier / King Ouest',45.398449,-71.91834
@@ -291,7 +291,7 @@
 396,'396','CSSS-IUGS Pavillon Argyll',45.403566,-71.913562
 398,'398','Collège Du Sacré-Cœur',45.400757,-71.898362
 399,'399','King Ouest / Belvédère Sud',45.398737,-71.896449
-402,'402','École De La Montée - Pavillon St-François',45.3954,-71.879941
+402,'402','École De La Mtée - Pavillon St-François',45.3954,-71.879941
 403,'403','Galt Est / 7e Av. Sud',45.396056,-71.874183
 405,'405','Woodward / 10e Av. Sud',45.398661,-71.87157
 406,'406','Parc Philippe-Desranleau',45.398617,-71.874722
@@ -319,7 +319,7 @@
 452,'452','7e Av. Sud / Chalifoux',45.401179,-71.875716
 453,'453','Galt Est / Ormeaux',45.396378,-71.870826
 454,'454','Galt Est / 7e Av. Sud',45.396228,-71.873753
-455,'455','École De La Montée - Pavillon St-François',45.396209,-71.877574
+455,'455','École De La Mtée - Pavillon St-François',45.396209,-71.877574
 456,'456','Pont Joffre / Grandes-Fourches',45.394642,-71.883387
 457,'457','Viaduc / Galt Ouest',45.393867,-71.886621
 458,'458','Bourque / Parc',45.342353,-72.041579
@@ -355,7 +355,7 @@
 499,'499','Cégep / Mont-Plaisant',45.407682,-71.883086
 500,'500','Édifice Expo-Sherbrooke',45.40956,-71.882929
 501,'501','Cégep',45.411529,-71.88485
-502,'502','Pl. Sylvie-Daigle',45.413062,-71.884778
+502,'502','Plateau Sylvie-Daigle',45.413062,-71.884778
 504,'504','Kennedy Nord / Terrill',45.409973,-71.890546
 505,'505','Kennedy Nord #675',45.411737,-71.892617
 511,'511','St-François Nord / Giet',45.410443,-71.89328
@@ -446,7 +446,7 @@
 633,'633','King Est / 20e Av. Nord',45.408745,-71.861495
 634,'634','King Est / 18e Av. Nord',45.408195,-71.864017
 635,'635','12e Av. Nord / Duplessis',45.449944,-71.861181
-638,'638','Pl. Sylvie-Daigle',45.412958,-71.884905
+638,'638','Plateau Sylvie-Daigle',45.412958,-71.884905
 640,'640','Édifice Expo-Sherbrooke',45.409568,-71.883378
 641,'641','Cégep / Montplaisant',45.407803,-71.883272
 642,'642','Complexe St-Vincent-De-Paul',45.406418,-71.883142
@@ -508,7 +508,7 @@
 731,'731','Arona / Papineau',45.413234,-71.867405
 734,'734','Bertrand-Fabi / Comtois',45.384693,-71.962544
 735,'735','Arona / Papineau',45.412977,-71.867514
-736,'736','École De La Montée - Pavillon Le Ber',45.410651,-71.867449
+736,'736','École De La Mtée - Pavillon Le Ber',45.410651,-71.867449
 737,'737','Ste-Famille / 13e Av. Nord',45.410563,-71.86948
 738,'738','Conseil / 13e Av. Sud',45.403662,-71.869653
 739,'739','École Du Coeur-Immaculé',45.403677,-71.867469
@@ -549,7 +549,7 @@
 787,'787','Prospect / Paul-Desruisseaux',45.408946,-71.931179
 788,'788','Prospect / Bouchette',45.408919,-71.924648
 789,'789','Prospect / Passage Chambly',45.408857,-71.920433
-790,'790','Josaphat-Rancourt / Pl. St-Joseph',45.420781,-71.966498
+790,'790','Josaphat-Rancourt / Plateau St-Joseph',45.420781,-71.966498
 792,'792','Kennedy Nord / Terrill',45.409569,-71.890392
 793,'793','Cégep Salle Alfred-Des Rochers',45.411081,-71.888138
 794,'794','Terrill / Cégep',45.412093,-71.886694
@@ -1068,7 +1068,7 @@
 2029,'2029','Langlois / 7e Av. Nord',45.413954,-71.87603
 2030,'2030','École Laporte',45.410595,-71.875894
 2031,'2031','Ste-Famille / 13e Av. Nord',45.410425,-71.86976
-2032,'2032','École De La Montée - Pavillon Le Ber',45.41043,-71.867818
+2032,'2032','École De La Mtée - Pavillon Le Ber',45.41043,-71.867818
 2033,'2033','Lys (Résidences)',45.420404,-71.863817
 2034,'2034','Lys / Quatre-Saisons',45.42139,-71.86363
 2035,'2035','Quatre-Saisons / Blés',45.420687,-71.866173
@@ -1127,7 +1127,7 @@
 2091,'2091','Belvédère Sud / Hallée',45.368467,-71.894222
 2092,'2092','Belvédère Sud / Thibault',45.375141,-71.893783
 2094,'2094','Montpellier / Brûlotte',45.42834,-71.872297
-2095,'2095','École De La Montée - Pavillon St-François',45.396182,-71.878252
+2095,'2095','École De La Mtée - Pavillon St-François',45.396182,-71.878252
 2096,'2096','Laurier / Aberdeen',45.396812,-71.888635
 2097,'2097','Chardonnerets / Marika',45.404102,-71.820543
 2098,'2098','Cristaux / Agates',45.40528,-71.823862
@@ -1158,7 +1158,7 @@
 2125,'2125','McGregor / Sauvignon',45.413526,-71.945224
 2126,'2126','Mgr-Fortier / Francis-McCrea',45.42491,-71.955788
 2127,'2127','P. St-Joseph / Mgr-Fortier',45.424436,-71.963363
-2128,'2128','Josaphat-Rancourt / Pl. St-Joseph',45.42089,-71.966735
+2128,'2128','Josaphat-Rancourt / Plateau St-Joseph',45.42089,-71.966735
 2129,'2129','College / Archie-Mitchell',45.365376,-71.875136
 2130,'2130','Queen-Victoria / Moore',45.406004,-71.901468
 2131,'2131','Parc Du Champ-De-Mars',45.407293,-71.901709
@@ -1282,7 +1282,7 @@
 2291,'2291','Lionel-Groulx / Sauvignon',45.413565,-71.943511
 2292,'2292','Langlois / Codère',45.413886,-71.877242
 2293,'2293','Langlois / Codère',45.413724,-71.877551
-2294,'2294','Stationnement Alternatif Nortrhop Frye',45.404795,-71.955094
+2294,'2294','Stat Alternatif Nortrhop Frye',45.404795,-71.955094
 2295,'2295','Place Fleurimont',45.410697,-71.851939
 2296,'2296','Galvin / Lucien-Brunelle',45.406692,-71.844386
 2297,'2297','Centre Julien-Ducharme',45.43262,-71.852702
@@ -1384,8 +1384,8 @@
 2396,'2396','Kennedy Nord / Holmes',45.412536,-71.893512
 2397,'2397','Kennedy Nord / Holmes',45.412639,-71.893904
 2398,'2398','Denault / St-Denis',45.388553,-71.919513
-2399,'2399','Pl. Marquette',45.401523,-71.894912
-2400,'2400','Pl. Marquette',45.401807,-71.89475
+2399,'2399','Plateau Marquette',45.401523,-71.894912
+2400,'2400','Plateau Marquette',45.401807,-71.89475
 2401,'2401','King Est #1175',45.408077,-71.863421
 2402,'2402','King Est #1175',45.408324,-71.863131
 2403,'2403','Halte Des Pionniers',45.403215,-71.891389
@@ -1415,7 +1415,7 @@
 2429,'2429','Parc Ind. De L''Est',45.392942,-71.861693
 2430,'2430','CHUS Fleurimont (Résidences)',45.449785,-71.86962
 2431,'2431','Chênes #3078',45.400268,-71.952452
-2432,'2432','Stationnement Alternatif King / Comtois',45.38769,-71.958275
+2432,'2432','Stat Alternatif King / Comtois',45.38769,-71.958275
 2433,'2433','Comtois / King Ouest',45.387738,-71.95986
 2434,'2434','Comtois / King Ouest',45.38789,-71.959739
 2435,'2435','2875 Du Manoir',45.402346,-71.945964
