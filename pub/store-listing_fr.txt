@@ -5,7 +5,7 @@ Autobus STS de Sherbrooke pour MonTransit.
 Horaires. Nouvelles.
 ----------
 What's new in this version?:
-Horaires du 17 août 2015 au 20 décembre 2015.
+Horaires du 21 décembre 2015 au 3 janvier 2016.
 Nouvelles de www.sts.qc.ca.
 ----------
 Full description:
