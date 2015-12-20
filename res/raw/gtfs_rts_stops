@@ -39,7 +39,7 @@
 69,'69','École Mitchell-Montcalm - Pavillon Mitchell',45.404879,-71.901745
 70,'70','Portland / Belvédère Nord',45.402902,-71.900712
 78,'78','Wellington Sud / Aberdeen',45.39672,-71.887684
-79,'79','Viaduc Galt Ouest',45.393702,-71.88593
+79,'79','Viaduc / Galt Ouest',45.393702,-71.88593
 80,'80','Wellington Sud / Richelieu',45.391966,-71.884761
 81,'81','Wellington Sud / Côte De L''Acadie',45.38942,-71.884029
 82,'82','Wellington Sud #1446',45.386016,-71.881347
@@ -93,8 +93,8 @@
 145,'145','Beckett / Vermont',45.416917,-71.924091
 149,'149','Beckett / Vermont',45.416819,-71.924465
 154,'154','Jacques-Cartier Nord / Malouin',45.406646,-71.918625
-155,'155','Jacques-Cartier Nord / Portland',45.403978,-71.9187
-156,'156','Jacques-Cartier Nord / Albert-Skinner',45.401345,-71.918766
+155,'155','Jacques-Cartier Nord / Portland',45.404235,-71.918714
+156,'156','Jacques-Cartier Nord / Albert-Skinner',45.401652,-71.9188
 157,'157','Jacques-Cartier / King Ouest',45.399472,-71.918798
 158,'158','Jacques-Cartier / King Ouest',45.397944,-71.918873
 159,'159','Pont Jacques-Cartier',45.394488,-71.918905
@@ -345,7 +345,7 @@
 488,'488','Galt Ouest / Bélanger',45.38692,-71.942491
 489,'489','Galt Ouest / Panneton',45.386934,-71.940247
 490,'490','Galt Ouest / Godbout',45.386968,-71.937254
-491,'491','Galt Ouest / Desnoyers',45.386991,-71.935165
+491,'491','Galt Ouest / Desnoyers',45.386987,-71.935521
 492,'492','École Du St-Esprit',45.387004,-71.93296
 493,'493','Galt Ouest / Prunier',45.386951,-71.930371
 494,'494','Galt Ouest / Léonard',45.38692,-71.928623
@@ -406,7 +406,6 @@
 572,'572','Denault / Dieppe',45.388975,-71.911881
 573,'573','Claire-Jolicoeur / Denault',45.388707,-71.915447
 574,'574','Jacques-Cartier Sud / Denault',45.38863,-71.91721
-575,'575','Denault / St-Denis',45.388503,-71.920227
 577,'577','Parc Du Frère-Théode',45.386757,-71.917581
 578,'578','Parc De Notre-Dame-Du-Rosaire',45.386748,-71.914957
 580,'580','Galt Ouest / St-Gérard',45.38668,-71.911018
@@ -448,7 +447,7 @@
 635,'635','12e Av. Nord / Duplessis',45.449944,-71.861181
 638,'638','Plateau Sylvie-Daigle',45.412958,-71.884905
 640,'640','Édifice Expo-Sherbrooke',45.409568,-71.883378
-641,'641','Cégep / Montplaisant',45.407803,-71.883272
+641,'641','Cégep / Mont-Plaisant',45.407803,-71.883272
 642,'642','Complexe St-Vincent-De-Paul',45.406418,-71.883142
 643,'643','Alexandre / King Ouest',45.399413,-71.893959
 644,'644','École Sacré-Cœur',45.397801,-71.892895
@@ -654,7 +653,7 @@
 947,'947','Président-Kennedy / Henri-Bourassa',45.358943,-71.994074
 948,'948','Parc Central',45.354945,-71.994327
 950,'950','Curé / Bertrand-Fabi',45.354716,-71.987821
-951,'951','Emery-Fontaine / St-Roch Sud',45.348758,-71.991534
+951,'951','Émery-Fontaine / St-Roch Sud',45.348758,-71.991534
 952,'952','Industriel / St-Jacques',45.395136,-71.994246
 953,'953','Université / St-Roch Sud',45.345132,-71.983601
 954,'954','Université / Jeanson',45.353115,-71.979383
@@ -705,7 +704,7 @@
 1014,'1014','Centre Récréatif Rock Forest',45.367767,-71.9901
 1015,'1015','Gaspé / Haut-Bois Sud',45.368713,-71.988411
 1017,'1017','Oliva-Turgeon / Sénateur-Tobin',45.469879,-71.945606
-1018,'1018','Jacques-Cartier Nord / Portland',45.403487,-71.918445
+1018,'1018','Jacques-Cartier Nord / Portland',45.403068,-71.918446
 1019,'1019','Parc Ind. Gene H. Kruger',45.467632,-71.948706
 1020,'1020','PME / Laval',45.468662,-71.950212
 1021,'1021','Queen-Victoria / Claude-Greffard',45.443495,-71.925275
@@ -757,7 +756,6 @@
 1095,'1095','Mullins / Paquin',45.468676,-71.935236
 1096,'1096','Queen-Victoria / Veronneau',45.459722,-71.933124
 1098,'1098','Queen-Victoria / Écossais',45.448322,-71.93106
-1099,'1099','Queen-Victoria / Sables',45.419895,-71.90808
 1106,'1106','Louise / Ste-Hélène',45.427331,-71.880744
 1113,'1113','Mi-Vallon / Bourque',45.376701,-71.977724
 1116,'1116','Mi-Vallon / Vétérans',45.375519,-71.977493
@@ -799,7 +797,7 @@
 1190,'1190','Rodrigue / Blanchette',45.334634,-71.999347
 1194,'1194','St-Roch Sud / Blanchette',45.334493,-71.979007
 1197,'1197','Président-Kennedy / Henri-Bourassa',45.359002,-71.994339
-1200,'1200','Molière / Chauveau',45.384385,-71.969598
+1200,'1200','Molière / Chauveau',45.38482,-71.969349
 1201,'1201','Molière / Grégoire',45.383299,-71.969612
 1203,'1203','Molière / Grégoire',45.38331,-71.969505
 1204,'1204','Molière / Chauveau',45.384157,-71.969456
@@ -879,7 +877,7 @@
 1332,'1332','Belvédère Sud / Riel',45.370396,-71.893688
 1334,'1334','Belvédère Sud / Riel',45.370367,-71.893511
 1336,'1336','Université / Galt Ouest',45.374098,-71.953714
-1338,'1338','Argenteuil / St-Rock Sud',45.348277,-71.988883
+1338,'1338','Argenteuil / St-Roch Sud',45.348277,-71.988883
 1339,'1339','Dépôt / Wellington Sud',45.398235,-71.887838
 1340,'1340','King Ouest / Rioux',45.398616,-71.921172
 1341,'1341','Portland #3050',45.4034,-71.955306
@@ -941,7 +939,7 @@
 1427,'1427','Ste-Catherine / St-Rock Sud',45.333221,-71.978546
 1428,'1428','Ste-Catherine / Lotbinière',45.319013,-71.989442
 1430,'1430','Kingston / Ancienne-Carrière',45.386292,-71.901337
-1431,'1431','Argenteuil / St-Rock Sud',45.348152,-71.988605
+1431,'1431','Argenteuil / St-Roch Sud',45.348152,-71.988605
 1432,'1432','Ste-Catherine / Roitelet',45.337704,-71.97343
 1433,'1433','Colombe / Chemin De Ste-Catherine',45.350981,-71.951198
 1434,'1434','North Hatley / Felton',45.35101,-71.945381
@@ -1039,7 +1037,7 @@
 1601,'1601','Gibraltar / Gabriel',45.369518,-71.984215
 1602,'1602','Gibraltar / Goncourt',45.368353,-71.982953
 1603,'1603','Gibraltar / Viau',45.367848,-71.979029
-1604,'1604','Viau / George-V',45.369702,-71.977994
+1604,'1604','Viau / George-V',45.369032,-71.978109
 1605,'1605','Cabano / Châteaufort',45.369382,-71.975346
 1606,'1606','Charlemagne / Charny',45.368919,-71.972176
 1607,'1607','Charlemagne / Bertrand-Fabi',45.368645,-71.967745
@@ -1058,11 +1056,13 @@
 1620,'1620','Marini / Magritte',45.385596,-71.988438
 1621,'1621','Mi-Vallon / Marini',45.385387,-71.985258
 1622,'1622','Mi-Vallon / Marini',45.385293,-71.984981
-1623,'1623','Marini / Magritte',45.385762,-71.988173
+1623,'1623','Marini / Magritte',45.3858,-71.988532
 1624,'1624','Magloire / Marini',45.385581,-71.991144
 1625,'1625','Magloire / Matisse',45.384274,-71.990018
 1626,'1626','Grégoire / Martin',45.382957,-71.97559
 1627,'1627','Grégoire / Martin',45.383117,-71.975542
+1628,'1628','Queen-Victoria (No. 3975)',45.418949,-71.907561
+1629,'1629','Chênes / Landry',45.400175,-71.956565
 2001,'2001','Bowen Sud / Chalifoux',45.401215,-71.88213
 2002,'2002','Lavigerie / Walsh',45.394649,-71.86716
 2003,'2003','Lavigerie / Longpré',45.391416,-71.859743
@@ -1269,7 +1269,6 @@
 2240,'2240','St-Élie / Circé',45.39489,-72.014732
 2242,'2242','École Du Triolet / Parc Innovation',45.380135,-71.943734
 2252,'2252','13e Av. Nord / 24-Juin',45.422616,-71.872594
-2253,'2253','Frontenac / Belvédère Nord',45.401549,-71.898054
 2254,'2254','Allard / Rubis',45.408777,-71.829684
 2255,'2255','Allard / Galvin',45.405945,-71.829714
 2256,'2256','Portland / Pépin',45.402808,-71.968086
@@ -1307,7 +1306,7 @@
 2291,'2291','Lionel-Groulx / Sauvignon',45.413565,-71.943511
 2292,'2292','Langlois / Codère',45.413886,-71.877242
 2293,'2293','Langlois / Codère',45.413724,-71.877551
-2294,'2294','Stat Alternatif Nortrhop Frye',45.404795,-71.955094
+2294,'2294','Nortrhop Frye (Stat Alternatif)',45.404795,-71.955094
 2295,'2295','Place Fleurimont',45.410697,-71.851939
 2296,'2296','Galvin / Lucien-Brunelle',45.406692,-71.844386
 2297,'2297','Centre Julien-Ducharme',45.43262,-71.852702
@@ -1440,7 +1439,7 @@
 2429,'2429','Parc Ind. De L''Est',45.392942,-71.861693
 2430,'2430','CHUS Fleurimont (Résidences)',45.449785,-71.86962
 2431,'2431','Chênes #3078',45.400268,-71.952452
-2432,'2432','Stat Alternatif King / Comtois',45.38769,-71.958275
+2432,'2432','King / Comtois (Stat Alternatif)',45.38769,-71.958275
 2433,'2433','Comtois / King Ouest',45.387738,-71.95986
 2434,'2434','Comtois / King Ouest',45.38789,-71.959739
 2435,'2435','2875 Du Manoir',45.402346,-71.945964
@@ -1463,11 +1462,8 @@
 2452,'2452','Ste-Catherine / Felton',45.349075,-71.954884
 2453,'2453','Ste-Catherine / Labbé',45.349361,-71.954682
 2454,'2454','Argenteuil / St-Roch Sud',45.348241,-71.988715
-2455,'2455','Galt Est / Longpré',45.398096,-71.860577
-2456,'2456','Galt Est / Longpré',45.397951,-71.860552
 2457,'2457','Place Dussault',45.348987,-71.988458
 2459,'2459','Galt Ouest / St-Pierre',45.394421,-71.892459
-2460,'2460','Galt Ouest / Alexandre',45.394254,-71.890307
 2461,'2461','Jacques-Cartier Sud / King Ouest',45.398466,-71.918598
 2463,'2463','King Est / Jetté',45.412321,-71.837379
 2464,'2464','Industriel / Godin',45.395246,-71.996056
