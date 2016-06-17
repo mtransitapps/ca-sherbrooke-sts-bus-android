@@ -20,14 +20,12 @@
 1101,0,'U Bishop''s',11
 1201,0,'Carref. De L''Estrie',12
 1200,0,'Cégep',12
-1301,0,'Campus',13
-1300,0,'King E. / Raby',13
 1401,0,'Campus',14
 1400,0,'Cégep',14
 1501,0,'Campus',15
 1500,0,'Parc Blanchard',15
 1601,0,'Campus',16
-1600,0,'Frontenac / Belvédère',16
+1600,0,'Prospect / Ontario',16
 1700,0,'Cégep',17
 1701,0,'Place Dussault',17
 1800,0,'Campus',18
@@ -38,7 +36,7 @@
 2000,0,'St-François / Boulogne',20
 2100,0,'CHUS',21
 2101,0,'Place Fleurimont',21
-2200,0,'CHUS (Urgence)',22
+2200,0,'CHUS',22
 2201,0,'Place Fleurimont',22
 2400,0,'Campus',24
 2401,0,'St-Roch / É.-Fontaine',24
@@ -49,8 +47,6 @@
 2701,0,'St-Roch / É.-Fontaine',27
 2800,0,'Alexander-Galt',28
 2801,0,'U Bishop''s',28
-2901,0,'Campus',29
-2900,0,'Dépôt',29
 4900,0,'CHUS H.-D. (Bowen)',49
 4901,0,'Northrop-Frye',49
 5000,0,'Carref. De L''Estrie',50
@@ -92,11 +88,16 @@
 2400600,0,'Campus',24006
 2400601,0,'Lisieux / Lachine',24006
 2400700,0,'13° Av. / 24-Juin',24007
+2400701,0,'Cégep',24007
 2400800,0,'13° Av. / 24-Juin',24008
 2400801,0,'Campus',24008
+2400900,0,'Chardonnerets / Marika',24009
 2401101,0,'Habitat / André',24011
 2401100,0,'Pl. St-Joseph',24011
 2401201,0,'Carref. De L''Estrie',24012
 2401200,0,'Cégep',24012
-2401401,0,'Dépôt',24014
 2401601,0,'Campus',24016
+2401600,0,'Prospect / Ontario',24016
+2401701,0,'Carref. De L''Estrie',24017
+2401700,0,'Cégep',24017
+2401901,0,'Lisieux / Brûlé',24019
