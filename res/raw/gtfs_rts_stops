@@ -112,9 +112,10 @@
 174,'174','Galt Ouest / St-Raymond',45.386753,-71.920126
 175,'175','Parc Du Frère-Théode',45.387112,-71.917497
 176,'176','Jacques-Cartier Sud / Denault',45.388421,-71.917894
-177,'177','Jacques-Cartier Sud / Leech',45.395418,-71.91869
+177,'177','Jacques-Cartier Sud / Tracy',45.394634,-71.918666
 178,'178','Jacques-Cartier / King Ouest',45.398907,-71.918576
 179,'179','Jacques-Cartier Nord / Albert-Skinner',45.40138,-71.918524
+181,'181','Jacques-Cartier / Prospect',45.409568,-71.918371
 183,'183','Malouin / Beckett',45.416786,-71.91652
 184,'184','Malouin / Sables',45.4188,-71.917257
 185,'185','École Hélène-Boullé',45.42103,-71.917247
@@ -289,7 +290,6 @@
 398,'398','Collège Du Sacré-Cœur',45.400757,-71.898362
 399,'399','King Ouest / Belvédère Sud',45.398737,-71.896449
 402,'402','École De La Mtée - Pavillon St-François',45.3954,-71.879941
-403,'403','Galt Est / 7e Av. Sud',45.396056,-71.874183
 405,'405','Woodward / 10e Av. Sud',45.398661,-71.87157
 406,'406','Parc Philippe-Desranleau',45.398617,-71.874722
 407,'407','Murray / Woodward',45.398498,-71.876858
@@ -490,7 +490,6 @@
 717,'717','Galt Ouest / St-Pierre',45.394251,-71.892674
 718,'718','Galt Ouest / Alexandre',45.394112,-71.891192
 720,'720','Pont Joffre / Grandes-Fourches',45.394458,-71.883275
-721,'721','Galt Est / Ormeaux',45.396114,-71.870794
 726,'726','Chalifoux / 15e Av. Sud',45.401102,-71.867349
 729,'729','École Du Coeur-Immaculé',45.403824,-71.867209
 731,'731','Arona / Papineau',45.413234,-71.867405
@@ -545,7 +544,6 @@
 796,'796','École Pie-X-De-L''Assomption',45.416225,-71.88244
 799,'799','Centre De Formation Professionnelle 24-Juin',45.42209,-71.878313
 800,'800','12e Av. Nord / 24-Juin',45.421978,-71.874203
-802,'802','Industriel / Labonté',45.395484,-71.985201
 803,'803','Centre De Formation Professionnelle 24-Juin',45.421975,-71.878085
 804,'804','Parc Maquette',45.395658,-72.003264
 805,'805','Dion / Alouettes',45.398178,-72.003487
@@ -647,7 +645,7 @@
 961,'961','Université / Jeanson',45.353297,-71.979318
 962,'962','Université / St-Rock Sud',45.345171,-71.983713
 963,'963','Place Dussault',45.348862,-71.98865
-964,'964','Industriel / Labonté',45.395352,-71.985093
+964,'964','Industriel / Portland',45.395333,-71.986145
 965,'965','Émery-Fontaine / St-Roch Sud',45.348838,-71.991168
 967,'967','Émery-Fontaine / Bergeron',45.349579,-71.990074
 968,'968','St-Élie / Hamel',45.39452,-72.021826
@@ -819,7 +817,7 @@
 1280,'1280','André / Habitat',45.373011,-71.902519
 1281,'1281','André / Thibault',45.374806,-71.90307
 1282,'1282','École Jean-XXIII',45.374786,-71.900746
-1283,'1283','Industriel / Missisquoi',45.395434,-71.981767
+1283,'1283','Industriel / Missisquoi',45.395365,-71.981778
 1284,'1284','Yamaska / Memphrémagog',45.393433,-71.983552
 1285,'1285','Tomifobia / Madakik',45.39158,-71.983513
 1286,'1286','Tomifobia / Coaticook',45.391259,-71.981594
@@ -935,7 +933,6 @@
 1456,'1456','Langlois / Assomption',45.413516,-71.879024
 1457,'1457','Langlois / St-Michel',45.413253,-71.880342
 1458,'1458','St-François Nord / Giet',45.410344,-71.892686
-1459,'1459','Galt Est / Lavigerie',45.396168,-71.868021
 1464,'1464','Conseil / Galt Est',45.4061,-71.853157
 1465,'1465','Conseil #1500',45.405658,-71.855158
 1466,'1466','Conseil / Jean-Talon',45.403252,-71.86179
@@ -1031,7 +1028,7 @@
 1625,'1625','Magloire / Matisse',45.384274,-71.990018
 1626,'1626','Grégoire / Martin',45.382957,-71.97559
 1627,'1627','Grégoire / Martin',45.383117,-71.975542
-1628,'1628','Queen-Victoria (No. 3975)',45.418949,-71.907561
+1628,'1628','Queen-Victoria (No. 1255)',45.418949,-71.907561
 1629,'1629','Chênes / Landry',45.400175,-71.956565
 1630,'1630','McManamy / Haig',45.389722,-71.90843
 1631,'1631','King Est / Raby',45.411557,-71.841149
@@ -1061,7 +1058,7 @@
 1656,'1656','Rocheuses / Alpes',45.420231,-71.83177
 1657,'1657','Lemire / King Est',45.42672,-71.825647
 1658,'1658','Alfred-Champigny / King Est',45.431475,-71.821264
-1659,'1659','Bowen Sud / Oasis',45.392641,-71.875284
+1659,'1659','Bowen Sud / Oasis',45.392958,-71.875514
 1660,'1660','École De La Mtée - Pavillon St-François',45.394947,-71.877403
 1661,'1661','Alfred-Champigny #2175',45.43618,-71.822004
 1662,'1662','Duplessis / Bienvenue',45.447555,-71.850184
@@ -1256,7 +1253,6 @@
 2240,'2240','St-Élie / Circé',45.39489,-72.014732
 2242,'2242','École Du Triolet / Parc Innovation',45.380135,-71.943734
 2252,'2252','13e Av. Nord / 24-Juin',45.422616,-71.872594
-2253,'2253','Frontenac / Belvédère Nord',45.401549,-71.898054
 2254,'2254','Allard / Rubis',45.408777,-71.829684
 2255,'2255','Allard / Galvin',45.405945,-71.829714
 2256,'2256','Portland / Pépin',45.402808,-71.968086
@@ -1430,7 +1426,7 @@
 2437,'2437','Rond-Point Courcelette',45.386681,-71.898113
 2438,'2438','Westmount / Courcelette',45.387984,-71.898446
 2439,'2439','Westmount / Courcelette',45.38818,-71.898519
-2440,'2440','Industriel / Missisquoi',45.395542,-71.981658
+2440,'2440','Industriel / Missisquoi',45.395602,-71.980743
 2441,'2441','Industriel / Barton',45.395459,-71.978948
 2442,'2442','Industriel / Barton',45.395638,-71.978562
 2443,'2443','Bolduc / O''Bready',45.407062,-71.948187
@@ -1444,11 +1440,8 @@
 2452,'2452','Ste-Catherine / Felton',45.349075,-71.954884
 2453,'2453','Ste-Catherine / Labbé',45.349361,-71.954682
 2454,'2454','Rodolphe-Bonneau / St-Roch Sud',45.348241,-71.988715
-2455,'2455','Galt Est / Longpré',45.398096,-71.860577
-2456,'2456','Galt Est / Longpré',45.397951,-71.860552
 2457,'2457','Place Dussault',45.348987,-71.988458
 2459,'2459','Galt Ouest / St-Pierre',45.394421,-71.892459
-2460,'2460','Galt Ouest / Alexandre',45.394254,-71.890307
 2464,'2464','Industriel / Godin',45.395246,-71.996056
 2465,'2465','Windsor / N.-D.-Mères',45.47806,-71.94015
 2466,'2466','Windsor / N.-D.-Mères',45.478015,-71.939818

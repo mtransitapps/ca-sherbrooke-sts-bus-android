@@ -20,14 +20,12 @@
 1101,0,'U Bishop''s',11
 1201,0,'Carref. De L''Estrie',12
 1200,0,'Cégep',12
-1301,0,'Campus',13
-1300,0,'King E. / Raby',13
 1401,0,'Campus',14
 1400,0,'Cégep',14
 1501,0,'Campus',15
 1500,0,'Parc Blanchard',15
 1601,0,'Campus',16
-1600,0,'Frontenac / Belvédère',16
+1600,0,'Prospect / Ontario',16
 1700,0,'Cégep',17
 1701,0,'Place Dussault',17
 1800,0,'Campus',18
@@ -38,7 +36,7 @@
 2000,0,'St-François / Boulogne',20
 2100,0,'CHUS (Urgence)',21
 2101,0,'Duplessis / Lemire',21
-2200,0,'CHUS (Urgence)',22
+2200,0,'CHUS',22
 2201,0,'Place Fleurimont',22
 2300,0,'King E. / Lemire',23
 2301,0,'Place Fleurimont',23
@@ -61,7 +59,7 @@
 5101,0,'Cégep',51
 5100,0,'Kruger',51
 5201,0,'Bourque / Parc',52
-5200,0,'St-Roch / É.-Fontaine',52
+5200,0,'Plaza De L''Ouest',52
 5300,0,'CHUS (Urgence)',53
 5301,0,'Campus',53
 5400,0,'CHUS (Urgence)',54
