@@ -5,7 +5,7 @@ Sherbrooke STS buses for MonTransit.
 Schedule. News.
 ----------
 What's new in this version?:
-Schedule from December 4, 2017 to December 23, 2017.
+Schedule from December 24, 2017 to January 7, 2018.
 News from www.sts.qc.ca.
 ----------
 Full description:
