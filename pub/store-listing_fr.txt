@@ -2,16 +2,15 @@ Title: Bus STS Sherbrooke - MonTrans…
 ----------
 Short description:
 Autobus STS de Sherbrooke pour MonTransit.
-Horaires. Nouvelles.
+Horaires...
 ----------
 What's new in this version?:
 Horaires du 20 août 2018 au 21 décembre 2018.
-Nouvelles de www.sts.qc.ca.
 ----------
 Full description:
 Cette application ajoute les informations des autobus STS de Sherbrooke à MonTransit.
 
-L'app contient les horaires des bus et les dernières nouvelles de www.sts.qc.ca.
+L'app contient les horaires des bus.
 
 La STS dessert Sherbrooke au Québec, Canada.
 
@@ -30,4 +29,4 @@ https://github.com/mtransitapps/ca-sherbrooke-sts-bus-android
 Cette application n'est pas associée au Société de Transport de Sherbrooke.
 
 Autorisations :
-- Autres: requis pour lire les nouvelles de www.sts.qc.ca
+- Autres: requis pour lire les nouvelles

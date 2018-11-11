@@ -2,16 +2,15 @@ Title: Sherbrooke STS Bus - MonTrans…
 ----------
 Short description:
 Sherbrooke STS buses for MonTransit.
-Schedule. News.
+Schedule...
 ----------
 What's new in this version?:
 Schedule from August 20, 2018 to December 21, 2018.
-News from www.sts.qc.ca.
 ----------
 Full description:
 This application adds Sherbrooke STS buses information to MonTransit.
 
-This app contains the buses schedule and the latest news from www.sts.qc.ca.
+This app contains the buses schedule.
 
 STS buses serve Sherbrooke in Quebec, Canada.
 
@@ -30,7 +29,7 @@ https://github.com/mtransitapps/ca-sherbrooke-sts-bus-android
 This app is not related with Société de Transport de Sherbrooke.
 
 Permissions:
-- Other: required to read news from www.sts.qc.ca
+- Other: required to read news
 ----------
 Application type: Applications
 ----------
