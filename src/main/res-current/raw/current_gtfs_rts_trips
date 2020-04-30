@@ -34,16 +34,12 @@
 1901,0,'Lisieux / Brûlé',19
 2001,0,'Cégep',20
 2000,0,'St-François / Boulogne',20
-2100,0,'CHUS (Urgence)',21
-2101,0,'Duplessis / Lemire',21
 2200,0,'CHUS (Urgence)',22
 2201,0,'Place Fleurimont',22
 2300,0,'King E. / Lemire',23
 2301,0,'Place Fleurimont',23
 2401,0,'St-Roch / É.-Fontaine',24
 2400,0,'UdeS',24
-2501,0,'13e Av. / 24-Juin',25
-2500,0,'Brûlotte (Gîte Du Bel-Âge)',25
 2600,0,'Carref. De L''Estrie',26
 2601,0,'Plaza De L''Ouest',26
 2700,0,'UdeS',27
@@ -56,8 +52,6 @@
 5001,0,'Val-Des-Arbres',50
 5101,0,'Cégep',51
 5100,0,'Kruger',51
-5201,0,'Bourque / Parc',52
-5200,0,'Plaza De L''Ouest',52
 5300,0,'CHUS (Urgence)',53
 5301,0,'UdeS',53
 5400,0,'CHUS (Urgence)',54
