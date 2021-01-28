@@ -1,7 +1,7 @@
 100,0,'Bowen / Talbot',1
 101,0,'Carref De L''Estrie',1
+201,0,'College / Mitchell',2
 200,0,'Cégep',2
-201,0,'U Bishop''S',2
 300,0,'13e Av / 24-Juin',3
 301,0,'Carref De L''Estrie',3
 401,0,'Carref De L''Estrie',4
@@ -10,9 +10,9 @@
 501,0,'Cégep',5
 601,0,'Lisieux / Lachine',6
 600,0,'UdeS',6
-700,0,'CHUS (Urgence)',7
-701,0,'Habitat / André',7
-800,0,'CHUS (Urgence)',8
+701,0,'Belvédère / Hallée',7
+700,0,'CHUS',7
+800,0,'CHUS',8
 801,0,'UdeS',8
 900,0,'Chardonnerets / Marika',9
 901,0,'UdeS',9
@@ -25,7 +25,7 @@
 1401,0,'UdeS',14
 1500,0,'Parc Blanchard',15
 1501,0,'UdeS',15
-1600,0,'Prospect / Ontario',16
+1600,0,'Frontenac / Belvédère',16
 1601,0,'UdeS',16
 1700,0,'Cégep',17
 1701,0,'Pl Dussault',17
@@ -35,21 +35,21 @@
 1901,0,'Lisieux / Brûlé',19
 2001,0,'Cégep',20
 2000,0,'St-François / Boulogne',20
-2100,0,'CHUS (Urgence)',21
+2100,0,'CHUS',21
 2101,0,'Duplessis / Lemire',21
-2200,0,'CHUS (Urgence)',22
-2201,0,'Pl Fleurimont',22
+2200,0,'CHUS',22
+2201,0,'King E / Raby',22
 2300,0,'King E / Lemire',23
 2301,0,'Pl Fleurimont',23
 2401,0,'St-Roch / É.-Fontaine',24
 2400,0,'UdeS',24
 2501,0,'13e Av / 24-Juin',25
-2500,0,'Brûlotte (Gîte Du Bel-Âge)',25
+2500,0,'Brûlotte (Gîte Du Bel-Âge) / Papineau / Coquelicots',25
 2600,0,'Carref De L''Estrie',26
 2601,0,'Portland / Robert-Boyd',26
 2700,0,'UdeS',27
 2701,0,'Val-Du-Lac',27
-2800,0,'Alexander-Galt',28
+2800,0,'Alexander-Galt / Beattie / Willowdale',28
 2801,0,'U Bishop''S',28
 2900,0,'King / Wellington',29
 2901,0,'UdeS',29
@@ -63,9 +63,9 @@
 5100,0,'Kruger',51
 5201,0,'Bourque / Parc',52
 5200,0,'Plaza De L''O',52
-5300,0,'CHUS (Urgence)',53
+5300,0,'CHUS',53
 5301,0,'UdeS',53
-5400,0,'CHUS (Urgence)',54
+5400,0,'CHUS',54
 5401,0,'Northrop-Frye',54
 5500,0,'13e Av / 24-Juin',55
 5501,0,'Manoir',55
@@ -77,14 +77,14 @@
 7401,0,'St-Roch S / Ste-Catherine',74
 8001,0,'Hémond / St-Élie',80
 8000,0,'Rabat Ch De St-Élie',80
-999901,0,'IGA Extra',9999
-999900,0,'Northrop-Frye',9999
+999900,0,'13e Av / 24-Juin',9999
+999901,0,'Carref De L''Estrie',9999
 1900300,0,'Cégep',19003
 1900301,0,'Galt O / Lisieux',19003
 1900400,0,'13e Av / 24-Juin',19004
 1900401,0,'Cégep',19004
 1900700,0,'Carref De L''Estrie',19007
-1900800,0,'CHUS (Urgence)',19008
+1900800,0,'CHUS',19008
 1900801,0,'Cégep',19008
 1901201,0,'Carref De L''Estrie',19012
 1901200,0,'Cégep',19012
