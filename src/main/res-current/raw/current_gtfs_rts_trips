@@ -20,12 +20,11 @@
 1101,0,'U Bishop''S',11
 1201,0,'Carref De L''Estrie',12
 1200,0,'Ston Du Cégep',12
-1301,0,'UdeS',13
 1400,0,'Ston Du Cégep',14
 1401,0,'UdeS',14
 1500,0,'Parc Blanchard',15
 1501,0,'UdeS',15
-1600,0,'Frontenac / Belvédère',16
+1600,0,'Prospect / Ontario',16
 1601,0,'UdeS',16
 1701,0,'Pl Dussault',17
 1700,0,'Ston Du Cégep',17
@@ -87,12 +86,6 @@
 60301,0,'STS (Roy / Cabana)',603
 60400,0,'CHUS (Entrée Princ)',604
 60401,0,'STS (Roy / Cabana)',604
-77001,0,'Laliberté / Pimbina',770
-77000,0,'Rabat Ch De St-Élie',770
-77400,0,'St-Roch & É.-Fontaine',774
-77401,0,'St-Roch S / Ste-Catherine',774
-78001,0,'Hémond / St-Élie',780
-78000,0,'Rabat Ch De St-Élie',780
 90300,0,'Ston Du Cégep',903
 90400,0,'13e Av / 24-Juin',904
 90401,0,'Ston Du Cégep',904
