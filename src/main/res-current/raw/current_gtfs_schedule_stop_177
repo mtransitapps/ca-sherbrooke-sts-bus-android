@@ -1,41 +1,41 @@
-'52130',1600,82750,0,'Prospect / Ontario',11200,0,'Prospect / Ontario'
-'52134',1600,70810,0,'Prospect / Ontario'
-'52153',1600,80550,,'',40300,0,'Prospect / Ontario',10600,0,'Prospect / Ontario'
-'52154',1600,64110,0,'Prospect / Ontario'
-'52163',1600,110850,0,'Prospect / Ontario'
-'52174',1600,73150,,''
-'52177',1600,115350,0,'Prospect / Ontario'
-'52183',1600,103850,0,'Prospect / Ontario',37700,0,'Prospect / Ontario'
-'52187',1600,90950,0,'Prospect / Ontario'
-'52193',1600,100950,0,'Prospect / Ontario'
-'52200',1600,113850,0,'Prospect / Ontario',21100,0,'Prospect / Ontario'
-'52206',1600,123750,0,'Prospect / Ontario'
-'52210',1600,170050,0,'Prospect / Ontario'
-'52214',1600,144750,0,'Prospect / Ontario',17070,0,'Prospect / Ontario'
-'52218',1600,164320,0,'Prospect / Ontario'
-'52219',1600,171950,0,'Prospect / Ontario'
-'52222',1600,185250,0,'Prospect / Ontario',8400,0,'Prospect / Ontario'
-'52227',1600,180350,0,'Prospect / Ontario'
-'52239',1600,201750,0,'Prospect / Ontario'
-'52248',1600,151450,0,'Prospect / Ontario'
-'52259',1600,154250,0,'Prospect / Ontario',67260,0,'Prospect / Ontario'
-'52262',1600,223010,0,'Prospect / Ontario',7600,0,'Prospect / Ontario'
-'52270',1600,191650,0,'Prospect / Ontario',22300,0,'Prospect / Ontario'
-'52271',1600,173550,0,'Prospect / Ontario'
-'52274',1600,204350,0,'Prospect / Ontario'
-'52291',1600,143250,0,'Prospect / Ontario'
-'52296',1600,74510,0,'Prospect / Ontario'
-'52297',1600,103250,0,'Prospect / Ontario'
-'52302',1600,93250,0,'Prospect / Ontario',20000,0,'Prospect / Ontario',20000,0,'Prospect / Ontario',20000,0,'Prospect / Ontario'
-'52303',1600,84410,0,'Prospect / Ontario',38740,0,'Prospect / Ontario'
-'52306',1600,175150,0,'Prospect / Ontario'
-'52318',1600,163250,0,'Prospect / Ontario'
-'52321',1600,214410,0,'Prospect / Ontario'
-'52324',1600,184510,0,'Prospect / Ontario',9800,0,'Prospect / Ontario'
-'52329',1600,204410,0,'Prospect / Ontario'
-'52331',1600,222110,0,'Prospect / Ontario'
-'52337',5501,101250,,'',22100,,'',22000,,''
-'52338',5501,90250,,'',22000,,'',22100,,'',25900,,''
-'52414',5501,92750,,'',22600,,'',26800,,'',23080,,''
-'52415',5501,80930,,'',22720,,'',26500,,'',22400,,'',23200,,''
-'52140',90700,63430,,''
+'52130',1600,82750,0,'Prospect / Ontario',0,11200,0,'Prospect / Ontario',0
+'52134',1600,70810,0,'Prospect / Ontario',0
+'52153',1600,80550,,'',0,40300,0,'Prospect / Ontario',0,10600,0,'Prospect / Ontario',0
+'52154',1600,64110,0,'Prospect / Ontario',0
+'52163',1600,110850,0,'Prospect / Ontario',0
+'52174',1600,73150,,'',0
+'52177',1600,115350,0,'Prospect / Ontario',0
+'52183',1600,103850,0,'Prospect / Ontario',0,37700,0,'Prospect / Ontario',0
+'52187',1600,90950,0,'Prospect / Ontario',0
+'52193',1600,100950,0,'Prospect / Ontario',0
+'52200',1600,113850,0,'Prospect / Ontario',0,21100,0,'Prospect / Ontario',0
+'52206',1600,123750,0,'Prospect / Ontario',0
+'52210',1600,170050,0,'Prospect / Ontario',0
+'52214',1600,144750,0,'Prospect / Ontario',0,17070,0,'Prospect / Ontario',0
+'52218',1600,164320,0,'Prospect / Ontario',0
+'52219',1600,171950,0,'Prospect / Ontario',0
+'52222',1600,185250,0,'Prospect / Ontario',0,8400,0,'Prospect / Ontario',0
+'52227',1600,180350,0,'Prospect / Ontario',0
+'52239',1600,201750,0,'Prospect / Ontario',0
+'52248',1600,151450,0,'Prospect / Ontario',0
+'52259',1600,154250,0,'Prospect / Ontario',0,67260,0,'Prospect / Ontario',0
+'52262',1600,223010,0,'Prospect / Ontario',0,7600,0,'Prospect / Ontario',0
+'52270',1600,191650,0,'Prospect / Ontario',0,22300,0,'Prospect / Ontario',0
+'52271',1600,173550,0,'Prospect / Ontario',0
+'52274',1600,204350,0,'Prospect / Ontario',0
+'52291',1600,143250,0,'Prospect / Ontario',0
+'52296',1600,74510,0,'Prospect / Ontario',0
+'52297',1600,103250,0,'Prospect / Ontario',0
+'52302',1600,93250,0,'Prospect / Ontario',0,20000,0,'Prospect / Ontario',0,20000,0,'Prospect / Ontario',0,20000,0,'Prospect / Ontario',0
+'52303',1600,84410,0,'Prospect / Ontario',0,38740,0,'Prospect / Ontario',0
+'52306',1600,175150,0,'Prospect / Ontario',0
+'52318',1600,163250,0,'Prospect / Ontario',0
+'52321',1600,214410,0,'Prospect / Ontario',0
+'52324',1600,184510,0,'Prospect / Ontario',0,9800,0,'Prospect / Ontario',0
+'52329',1600,204410,0,'Prospect / Ontario',0
+'52331',1600,222110,0,'Prospect / Ontario',0
+'52337',5501,101250,,'',0,22100,,'',0,22000,,'',0
+'52338',5501,90250,,'',0,22000,,'',0,22100,,'',0,25900,,'',0
+'52414',5501,92750,,'',0,22600,,'',0,26800,,'',0,23080,,'',0
+'52415',5501,80930,,'',0,22720,,'',0,26500,,'',0,22400,,'',0,23200,,'',0
+'52140',90700,63430,,'',0
