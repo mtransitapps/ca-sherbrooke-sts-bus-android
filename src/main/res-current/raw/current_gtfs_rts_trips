@@ -5,7 +5,7 @@
 300,0,'13e Av / 24-Juin',3
 301,0,'Carref De L''Estrie',3
 401,0,'Carref De L''Estrie',4
-400,0,'Chalumeau / Galvin',4
+400,0,'Galvin / Allard',4
 500,0,'13e Av / 24-Juin',5
 501,0,'Ston Du Cégep',5
 601,0,'Lisieux / Lachine',6
@@ -20,25 +20,24 @@
 1101,0,'U Bishop''S',11
 1201,0,'Carref De L''Estrie',12
 1200,0,'Ston Du Cégep',12
-1301,0,'UdeS',13
 1400,0,'Ston Du Cégep',14
 1401,0,'UdeS',14
 1500,0,'Parc Blanchard',15
 1501,0,'UdeS',15
-1600,0,'Frontenac / Belvédère',16
+1600,0,'Prospect / Ontario',16
 1601,0,'UdeS',16
 1701,0,'Pl Dussault',17
 1700,0,'Ston Du Cégep',17
 1801,0,'Frontière / Bourassa',18
 1800,0,'UdeS',18
-1901,0,'Lisieux / Brûlé',19
+1901,0,'Lisieux / Lachine',19
 1900,0,'Ston Du Cégep',19
 2000,0,'St-François / Boulogne',20
 2001,0,'Ston Du Cégep',20
 2100,0,'CHUS',21
 2101,0,'Duplessis / Lemire',21
 2200,0,'CHUS',22
-2201,0,'King E / Raby',22
+2201,0,'Galt E / Conseil',22
 2300,0,'King E / Lemire',23
 2301,0,'Pl Fleurimont',23
 2401,0,'St-Roch & É.-Fontaine',24
@@ -51,8 +50,6 @@
 2701,0,'Val-Du-Lac',27
 2800,0,'Alexander-Galt / Beattie & Willowdale',28
 2801,0,'U Bishop''S',28
-2900,0,'King / Wellington',29
-2901,0,'UdeS',29
 3600,0,'Carref De L''Estrie',36
 3601,0,'Plaza De L''O',36
 5000,0,'Carref De L''Estrie',50
@@ -68,7 +65,6 @@
 40100,0,'CHUS',401
 40101,0,'Stat Gaspé',401
 40500,0,'13e Av / 24-Juin',405
-40501,0,'Ston Du Cégep',405
 41101,0,'Carref De L''Estrie',411
 41100,0,'Pl St-Joseph',411
 44801,0,'Stat IGA Extra',448
