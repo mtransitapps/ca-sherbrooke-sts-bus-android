@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays,TypographyDashes">
-    <integer name="youtube_db_version">1</integer>
+    <integer name="youtube_db_version">2</integer>
     <string name="youtube_target_for_poi_authority">@string/gtfs_rts_authority</string>
     <string name="youtube_color">@string/gtfs_rts_color</string>
     <string-array name="youtube_channels_username">
-        <item>TransLink</item>
+        <item /><!-- no user-name -> use handle or ID -->
+    </string-array>
+    <string-array name="youtube_channels_handle">
+        <item>societedetransportdesherbr4202</item>
     </string-array>
     <string-array name="youtube_channels_id">
         <item>UCdgkq4wBTf55izg490sxHRw</item>
@@ -13,7 +16,7 @@
         <item>UUdgkq4wBTf55izg490sxHRw</item>
     </string-array>
     <string-array name="youtube_channels_author_icon">
-        <item>https://yt3.ggpht.com/ytc/AOPolaQMzUgVY0kmy2H_f3tiObwBrEfAsMJ2XSD2csgU=s88-c-k-c0x00ffffff-no-rj</item>
+        <item>https://yt3.ggpht.com/8MkZXUWhmYpW2f6TvGjkvv4zkQ-zmdSBzWMsNe_CEBffv3JxsCp85Iz65Ivgh1LBLGAhIPDR=s88-c-k-c0x00ffffff-no-rj</item>
     </string-array>
     <string-array name="youtube_channels_author_name">
         <item>@string/gtfs_rts_short_name</item>
