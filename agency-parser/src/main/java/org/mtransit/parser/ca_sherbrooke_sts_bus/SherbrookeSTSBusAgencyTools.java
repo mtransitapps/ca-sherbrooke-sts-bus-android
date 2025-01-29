@@ -135,7 +135,7 @@ public class SherbrookeSTSBusAgencyTools extends DefaultAgencyTools {
 		return CleanUtils.cleanLabelFR(tripHeadsign);
 	}
 
-	private static final Pattern NO = Pattern.compile("(\\(no\\.([\\d]+)\\))", Pattern.CASE_INSENSITIVE);
+	private static final Pattern NO = Pattern.compile("(\\(no\\.(\\d+)\\))", Pattern.CASE_INSENSITIVE);
 	private static final String NO_REPLACEMENT = "#$2";
 
 	@NotNull
@@ -169,7 +169,7 @@ public class SherbrookeSTSBusAgencyTools extends DefaultAgencyTools {
 
 	@Override
 	public int getStopId(@NotNull GStop gStop) {
-		//noinspection deprecation
+		//noinspection DiscouragedApi
 		final String stopId1 = cleanStopOriginalId(gStop.getStopId());
 		if (StringUtils.isNumeric(stopId1)) {
 			return Integer.parseInt(stopId1);
