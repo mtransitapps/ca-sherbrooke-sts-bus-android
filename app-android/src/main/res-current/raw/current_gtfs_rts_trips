@@ -5,7 +5,7 @@
 300,0,'13e Av / 24-Juin',3
 301,0,'Carref De L''Estrie',3
 401,0,'Carref De L''Estrie',4
-400,0,'Galvin / Allard',4
+400,0,'Galvin / Trembles',4
 500,0,'13e Av / 24-Juin',5
 501,0,'Ston Du Cégep',5
 601,0,'Lisieux / Lachine',6
@@ -20,7 +20,6 @@
 1101,0,'U Bishop''S',11
 1201,0,'Carref De L''Estrie',12
 1200,0,'Ston Du Cégep',12
-1301,0,'UdeS',13
 1400,0,'Ston Du Cégep',14
 1401,0,'UdeS',14
 1500,0,'Parc Blanchard',15
@@ -38,7 +37,7 @@
 2100,0,'CHUS',21
 2101,0,'Duplessis / Lemire',21
 2200,0,'CHUS',22
-2201,0,'Galt E / Conseil',22
+2201,0,'Galvin / Trembles',22
 2300,0,'King E / Lemire',23
 2301,0,'Pl Fleurimont',23
 2401,0,'St-Roch & É.-Fontaine',24
@@ -51,8 +50,6 @@
 2701,0,'Val-Du-Lac',27
 2800,0,'Alexander-Galt / Beattie & Willowdale',28
 2801,0,'U Bishop''S',28
-2900,0,'King / Wellington',29
-2901,0,'UdeS',29
 3600,0,'Carref De L''Estrie',36
 3601,0,'Plaza De L''O',36
 5000,0,'Carref De L''Estrie',50
@@ -67,7 +64,6 @@
 5701,0,'Carref De L''Estrie',57
 40100,0,'CHUS',401
 40101,0,'Stat Gaspé',401
-40500,0,'13e Av / 24-Juin',405
 41101,0,'Carref De L''Estrie',411
 41100,0,'Pl St-Joseph',411
 44801,0,'Stat IGA Extra',448
@@ -86,6 +82,14 @@
 60301,0,'STS (Roy / Cabana)',603
 60400,0,'CHUS (Entrée Princ)',604
 60401,0,'STS (Roy / Cabana)',604
+60500,0,'André / Thibault',605
+60501,0,'STS (Roy / Cabana)',605
+60601,0,'STS (Roy / Cabana)',606
+60600,0,'U Bishop''S',606
+60701,0,'Plaza De L''O',607
+60700,0,'STS (Roy / Cabana)',607
+60800,0,'King E / Raby',608
+60801,0,'STS (Roy / Cabana)',608
 77001,0,'Laliberté / Pimbina',770
 77000,0,'Rabat Ch De St-Élie',770
 77400,0,'St-Roch & É.-Fontaine',774
@@ -96,7 +100,6 @@
 90400,0,'13e Av / 24-Juin',904
 90401,0,'Ston Du Cégep',904
 90700,0,'Carref De L''Estrie',907
-90800,0,'CHUS',908
 90801,0,'Ston Du Cégep',908
 91201,0,'Carref De L''Estrie',912
 91200,0,'Ston Du Cégep',912
@@ -106,3 +109,5 @@
 91801,0,'Pl Dussault',918
 91800,0,'UdeS',918
 91900,0,'Ston Du Cégep',919
+2400080000,0,'King E / Raby',24000800
+2400080001,0,'Plaza De L''O',24000800
