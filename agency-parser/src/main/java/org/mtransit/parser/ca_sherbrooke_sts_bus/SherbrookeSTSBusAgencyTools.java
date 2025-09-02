@@ -32,11 +32,6 @@ public class SherbrookeSTSBusAgencyTools extends DefaultAgencyTools {
 		return LANG_FR;
 	}
 
-	@Override
-	public boolean defaultExcludeEnabled() {
-		return true;
-	}
-
 	@Nullable
 	@Override
 	public String getAgencyId() {
@@ -80,7 +75,7 @@ public class SherbrookeSTSBusAgencyTools extends DefaultAgencyTools {
 		routeLongName = UNIVERSITE_DE_SHERBROOKE.matcher(routeLongName).replaceAll(UNIVERSITE_DE_SHERBROOKE_REPLACEMENT);
 		routeLongName = UNIVERSITE_BISHOP.matcher(routeLongName).replaceAll(UNIVERSITE_BISHOP_REPLACEMENT);
 		routeLongName = CleanUtils.cleanStreetTypesFRCA(routeLongName);
-		return CleanUtils.cleanLabel(routeLongName);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), routeLongName);
 	}
 
 	@Override
@@ -163,6 +158,11 @@ public class SherbrookeSTSBusAgencyTools extends DefaultAgencyTools {
 	private static final String K = "K";
 
 	@Override
+	public @Nullable String getStopIdCleanupRegex() {
+		return ""; // using CleanUtils.cleanMergedID() in cleanStopOriginalId() below
+	}
+
+	@Override
 	public @NotNull String cleanStopOriginalId(@NotNull String gStopId) {
 		return CleanUtils.cleanMergedID(gStopId);
 	}
@@ -170,35 +170,35 @@ public class SherbrookeSTSBusAgencyTools extends DefaultAgencyTools {
 	@Override
 	public int getStopId(@NotNull GStop gStop) {
 		//noinspection DiscouragedApi
-		final String stopId1 = cleanStopOriginalId(gStop.getStopId());
-		if (StringUtils.isNumeric(stopId1)) {
-			return Integer.parseInt(stopId1);
+		final String stopIdS = cleanStopOriginalId(gStop.getStopId());
+		if (StringUtils.isNumeric(stopIdS)) {
+			return Integer.parseInt(stopIdS);
 		}
-		final Matcher matcher = DIGITS.matcher(stopId1);
+		final Matcher matcher = DIGITS.matcher(stopIdS);
 		if (matcher.find()) {
 			final int digits = Integer.parseInt(matcher.group());
 			int stopId = 0;
-			if (stopId1.endsWith(A)) {
+			if (stopIdS.endsWith(A)) {
 				stopId += 10000;
-			} else if (stopId1.endsWith(B)) {
+			} else if (stopIdS.endsWith(B)) {
 				stopId += 20000;
-			} else if (stopId1.endsWith(C)) {
+			} else if (stopIdS.endsWith(C)) {
 				stopId += 30000;
-			} else if (stopId1.endsWith(D)) {
+			} else if (stopIdS.endsWith(D)) {
 				stopId += 40000;
-			} else if (stopId1.endsWith(E)) {
+			} else if (stopIdS.endsWith(E)) {
 				stopId += 50000;
-			} else if (stopId1.endsWith(F)) {
+			} else if (stopIdS.endsWith(F)) {
 				stopId += 60000;
-			} else if (stopId1.endsWith(G)) {
+			} else if (stopIdS.endsWith(G)) {
 				stopId += 70000;
-			} else if (stopId1.endsWith(H)) {
+			} else if (stopIdS.endsWith(H)) {
 				stopId += 80000;
-			} else if (stopId1.endsWith(I)) {
+			} else if (stopIdS.endsWith(I)) {
 				stopId += 90000;
-			} else if (stopId1.endsWith(J)) {
+			} else if (stopIdS.endsWith(J)) {
 				stopId += 100000;
-			} else if (stopId1.endsWith(K)) {
+			} else if (stopIdS.endsWith(K)) {
 				stopId += 110000;
 			} else {
 				throw new MTLog.Fatal("Stop doesn't have an ID (end with) %s!", gStop.toStringPlus(true));
