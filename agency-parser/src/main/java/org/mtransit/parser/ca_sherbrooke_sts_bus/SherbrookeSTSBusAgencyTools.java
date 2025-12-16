@@ -35,7 +35,7 @@ public class SherbrookeSTSBusAgencyTools extends DefaultAgencyTools {
 	@Nullable
 	@Override
 	public String getAgencyId() {
-		return "0"; // exclude "Service opéré par Taxis de Sherbrooke" // Taxibus
+		return "STS"; // exclude "Service opéré par Taxis de Sherbrooke" // Taxibus
 	}
 
 	@NotNull
