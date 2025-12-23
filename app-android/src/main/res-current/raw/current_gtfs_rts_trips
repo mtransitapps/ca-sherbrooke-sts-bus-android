@@ -15,12 +15,11 @@
 800,0,'CHUS',8
 801,0,'UdeS',8
 900,0,'Chardonnerets / Marika',9
-901,0,'Ston Du Cégep / UdeS',9
+901,0,'UdeS',9
 1100,0,'Pl St-Joseph',11
 1101,0,'U Bishop''S',11
 1201,0,'Carref De L''Estrie',12
 1200,0,'Ston Du Cégep',12
-1301,0,'UdeS',13
 1400,0,'Ston Du Cégep',14
 1401,0,'UdeS',14
 1500,0,'Parc Blanchard',15
@@ -51,8 +50,6 @@
 2701,0,'Val-Du-Lac',27
 2800,0,'Alexander-Galt / Beattie & Willowdale',28
 2801,0,'U Bishop''S',28
-2900,0,'King / Wellington',29
-2901,0,'UdeS',29
 3600,0,'Carref De L''Estrie',36
 3601,0,'Plaza De L''O',36
 5000,0,'Carref De L''Estrie',50
