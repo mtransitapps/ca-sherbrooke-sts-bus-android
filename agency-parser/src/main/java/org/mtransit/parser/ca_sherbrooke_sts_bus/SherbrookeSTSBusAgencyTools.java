@@ -19,6 +19,7 @@ import java.util.Locale;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+// https://www.sts.qc.ca/a-propos/la-sts/donnees-ouvertes/
 // https://www.donneesquebec.ca/recherche/fr/dataset/transport-sts
 public class SherbrookeSTSBusAgencyTools extends DefaultAgencyTools {
 
