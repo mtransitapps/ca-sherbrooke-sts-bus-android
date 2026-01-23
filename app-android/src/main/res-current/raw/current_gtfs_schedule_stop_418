@@ -1,62 +1,9 @@
-'71041',1700,100200,0,'Carref De L''Estrie',2
-'71045',1700,140200,0,'Carref De L''Estrie',2
-'71048',1700,130200,0,'Carref De L''Estrie',2
-'71049',1700,120200,0,'Carref De L''Estrie',2
-'71052',1700,75500,0,'Carref De L''Estrie',2,15100,0,'Carref De L''Estrie',2
-'71056',1700,150200,0,'Carref De L''Estrie',2
-'71057',1700,160200,0,'Carref De L''Estrie',2
-'71063',1700,110100,0,'Carref De L''Estrie',2
-'71064',1700,170900,0,'Carref De L''Estrie',2
-'71072',1700,204100,0,'Carref De L''Estrie',2
-'71074',1700,194100,0,'Carref De L''Estrie',2
-'71083',1700,180600,0,'Carref De L''Estrie',2
-'71085',1700,214100,0,'Carref De L''Estrie',2
-'71086',1700,185500,0,'Carref De L''Estrie',2
-'71097',1700,100200,0,'Carref De L''Estrie',2
-'71101',1700,140200,0,'Carref De L''Estrie',2
-'71104',1700,130200,0,'Carref De L''Estrie',2
-'71105',1700,120200,0,'Carref De L''Estrie',2
-'71108',1700,75500,0,'Carref De L''Estrie',2,15100,0,'Carref De L''Estrie',2
-'71112',1700,150200,0,'Carref De L''Estrie',2
-'71113',1700,160200,0,'Carref De L''Estrie',2
-'71119',1700,110100,0,'Carref De L''Estrie',2
-'71120',1700,170900,0,'Carref De L''Estrie',2
-'71128',1700,204100,0,'Carref De L''Estrie',2
-'71130',1700,194100,0,'Carref De L''Estrie',2
-'71139',1700,180600,0,'Carref De L''Estrie',2
-'71141',1700,214100,0,'Carref De L''Estrie',2
-'71142',1700,185500,0,'Carref De L''Estrie',2
-'71150',1700,65700,,'',2
-'71154',1700,100500,,'',2
-'71161',1700,73300,,'',2
-'71169',1700,113100,,'',2
-'71179',1700,80100,,'',2
-'71180',1700,123100,,'',2
-'71182',1700,131100,,'',2
-'71187',1700,92700,,'',2
-'71204',1700,71600,,'',2
-'71205',1700,83400,,'',2,19500,,'',2
-'71207',1700,134500,,'',2
-'71213',1700,121000,,'',2,20100,0,'Carref De L''Estrie',2,10700,0,'Carref De L''Estrie',2
-'71216',1700,105000,,'',2
-'71218',1700,115000,,'',2
-'71233',1700,90800,,'',2
-'71236',1700,160200,,'',2
-'71257',1700,143700,0,'Carref De L''Estrie',2,20200,0,'Carref De L''Estrie',2
-'71271',1700,185000,0,'Carref De L''Estrie',2
-'71277',1700,154400,0,'Carref De L''Estrie',2
-'71288',1700,210500,0,'Carref De L''Estrie',2
-'71291',1700,165600,0,'Carref De L''Estrie',2
-'71300',1700,180600,,'',2
-'71307',1700,192100,0,'Carref De L''Estrie',2
-'71313',1700,172300,0,'Carref De L''Estrie',2
-'71320',1700,174200,0,'Carref De L''Estrie',2,41600,0,'Carref De L''Estrie',2
-'71324',1700,194800,0,'Carref De L''Estrie',2
-'71394',1700,74300,,'',2
-'71410',1700,81100,,'',2
-'71041',91700,65800,0,'Carref De L''Estrie',2
-'71097',91700,65800,0,'Carref De L''Estrie',2
-'71151',91700,60100,,'',2
-'71302',91700,230400,0,'Carref De L''Estrie',2
-'71077',91800,225200,,'',2
-'71133',91800,225200,,'',2
+'65020',1700,65700,,'',0,5900,,'',0,1700,,'',0,6800,,'',0,3300,,'',0,7400,,'',0,1900,,'',0,7800,,'',0,2400,,'',0,2100,,'',0,8100,,'',0,1900,,'',0,6000,,'',0,2100,,'',0,8000,,'',0,3400,,'',0,6600,0,'Carref De L''Estrie',0,2600,0,'Carref De L''Estrie',0,8100,0,'Carref De L''Estrie',0,2600,0,'Carref De L''Estrie',0,5800,,'',0,3700,0,'Carref De L''Estrie',0,1700,0,'Carref De L''Estrie',0,6700,0,'Carref De L''Estrie',0,1900,0,'Carref De L''Estrie',0,6400,,'',0,4400,0,'Carref De L''Estrie',0,7100,0,'Carref De L''Estrie',0,2700,0,'Carref De L''Estrie',0,15700,0,'Carref De L''Estrie',0,5300,0,'Carref De L''Estrie',0
+'65021',1700,75500,0,'Carref De L''Estrie',0,15100,0,'Carref De L''Estrie',0,9600,0,'Carref De L''Estrie',0,9900,0,'Carref De L''Estrie',0,10100,0,'Carref De L''Estrie',0,10000,0,'Carref De L''Estrie',0,10000,0,'Carref De L''Estrie',0,10000,0,'Carref De L''Estrie',0,10000,0,'Carref De L''Estrie',0,10700,0,'Carref De L''Estrie',0,9700,0,'Carref De L''Estrie',0,4900,0,'Carref De L''Estrie',0,8600,0,'Carref De L''Estrie',0,10000,0,'Carref De L''Estrie',0,10000,0,'Carref De L''Estrie',0
+'65022',1700,75500,0,'Carref De L''Estrie',0,15100,0,'Carref De L''Estrie',0,9600,0,'Carref De L''Estrie',0,9900,0,'Carref De L''Estrie',0,10100,0,'Carref De L''Estrie',0,10000,0,'Carref De L''Estrie',0,10000,0,'Carref De L''Estrie',0,10000,0,'Carref De L''Estrie',0,10000,0,'Carref De L''Estrie',0,10700,0,'Carref De L''Estrie',0,9700,0,'Carref De L''Estrie',0,4900,0,'Carref De L''Estrie',0,8600,0,'Carref De L''Estrie',0,10000,0,'Carref De L''Estrie',0,10000,0,'Carref De L''Estrie',0
+'65025',1700,74300,,'',0,6800,,'',0
+'65020',91700,60100,,'',0,170300,0,'Carref De L''Estrie',0
+'65021',91700,65800,0,'Carref De L''Estrie',0
+'65022',91700,65800,0,'Carref De L''Estrie',0
+'65021',91800,225200,,'',0
+'65022',91800,225200,,'',0
