@@ -19,6 +19,7 @@ import java.util.Locale;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+// https://www.sts.qc.ca/a-propos/la-sts/donnees-ouvertes/
 // https://www.donneesquebec.ca/recherche/fr/dataset/transport-sts
 public class SherbrookeSTSBusAgencyTools extends DefaultAgencyTools {
 
@@ -158,13 +159,8 @@ public class SherbrookeSTSBusAgencyTools extends DefaultAgencyTools {
 	private static final String K = "K";
 
 	@Override
-	public @Nullable String getStopIdCleanupRegex() {
-		return ""; // using CleanUtils.cleanMergedID() in cleanStopOriginalId() below
-	}
-
-	@Override
-	public @NotNull String cleanStopOriginalId(@NotNull String gStopId) {
-		return CleanUtils.cleanMergedID(gStopId);
+	public boolean cleanMergedStopIds() {
+		return true;
 	}
 
 	@Override
