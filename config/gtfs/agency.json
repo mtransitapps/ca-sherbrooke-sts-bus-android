@@ -1,0 +1,8 @@
+{
+    "agency_id": "STS",
+    "agency_id_comment": "exclude 'Service opéré par Taxis de Sherbrooke' // Taxibus",
+    "target_route_type_id": 3,
+    "default_color": "0A3D53",
+    "default_color_enabled": true,
+    "default_strings_cleaner_enabled": true
+}

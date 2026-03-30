@@ -1,0 +1,72 @@
+{
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": true,
+    "default_route_long_name_enabled": true,
+    "route_long_name_cleaners": [
+        {
+            "regex": "université de sherbrooke",
+            "ignore_case": true,
+            "is_world": true,
+            "replacement": "UdeS"
+        },
+        {
+            "regex": "université bishop's|université bishop|univerité bishop",
+            "ignore_case": true,
+            "is_world": true,
+            "replacement": "U Bishop'S"
+        }
+    ],
+    "direction_finder_enabled": true,
+    "direction_finder_disabled_until": {
+        "9999": "20260430"
+    },
+    "trip_headsign_cleaners": [
+        {
+            "regex": "université de sherbrooke",
+            "ignore_case": true,
+            "is_world": true,
+            "replacement": "UdeS"
+        },
+        {
+            "regex": "université bishop's|université bishop|univerité bishop",
+            "ignore_case": true,
+            "is_world": true,
+            "replacement": "U Bishop'S"
+        },
+        {
+            "regex": "plateau",
+            "ignore_case": true,
+            "is_world": true,
+            "replacement": "Pl"
+        },
+        {
+            "regex": "( \\(urgence\\)$)",
+            "ignore_case": true
+        }
+    ],
+    "stop_id_not_unique_allowed": true,
+    "stop_id_clean_merged": true,
+    "stop_name_cleaners": [
+        {
+            "regex": "( - )",
+            "replacement": " "
+        },
+        {
+            "regex": "université de sherbrooke",
+            "ignore_case": true,
+            "is_world": true,
+            "replacement": "UdeS"
+        },
+        {
+            "regex": "université bishop's|université bishop|univerité bishop",
+            "ignore_case": true,
+            "is_world": true,
+            "replacement": "U Bishop'S"
+        },
+        {
+            "regex": "(\\(no\\.(\\d+)\\))",
+            "ignore_case": true,
+            "replacement": "#$2"
+        }
+    ]
+}

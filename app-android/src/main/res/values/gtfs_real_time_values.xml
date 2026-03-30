@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources">
-    <integer name="gtfs_real_time_db_version">2</integer>
     <string name="gtfs_real_time_for_poi_authority">@string/gtfs_rts_authority</string>
     <!-- <string name="gtfs_real_time_agency_service_alerts_url">https://gtfs.sts.qc.ca:8443/gtfsrt/Alerts.pb</string> -->
     <string name="gtfs_real_time_agency_service_alerts_url">https://sts.chrono-saeiv.com/api/opendata/v1/STS/alert?token=%s</string>
