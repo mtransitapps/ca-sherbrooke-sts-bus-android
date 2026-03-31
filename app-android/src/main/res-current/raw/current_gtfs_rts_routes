@@ -32,7 +32,7 @@
 52,'52','Plaza O <> Av Parc','00B1B0',1693,3
 55,'55','13e Av - 24-Juin <> Manoir','005F27',1696,3
 57,'57','13e Av - 24-Juin <> Carref Estrie','74CBE0',1698,3
-401,'401','CHUS - Fleurimont <> Stat Gaspé','2C516A',51509,3
+401,'401','CHUS-Fleurimont <> Stat Gaspé','2C516A',51509,3
 411,'411','Plateau St-Joseph <> Carref Estrie','2C516A',51540,3
 448,'448','Northrop-Frye <> IGA Extra - King O','2C516A',51640,3
 449,'449','CHUS - Hôtel-Dieu <> Northrop-Frye','2C516A',51641,3
@@ -45,10 +45,10 @@
 605,'605','Habitat / André <> STS (Roy / Cabana)','FA7268',53435,3
 606,'606','U Bishop''S <> STS (Roy / Cabana)','FA7268',53436,3
 607,'607','STS (Roy / Cabana) <> Plaza O','FA7268',53437,3
-608,'608','King E - Raby <> STS (Roy / Cabana)','FA7268',53438,3
+608,'608','King E / Raby <> STS (Roy / Cabana)','FA7268',53438,3
 903,'903','Ind - Ston Cégep <> Carref Estrie','000000',56316,3
 904,'904','Raby <> Station Du Cégep','000000',56317,3
-907,'907','Carref Estrie <> André - Thibault','000000',56320,3
+907,'907','Carref L’Estrie <> André - Thibault','000000',56320,3
 908,'908','CHUS - Fleurimont <> Ston Cégep','000000',56321,3
 912,'912','Ston Cégep <> Carref Estrie','000000',56346,3
 913,'913','Carrefour De L''Estrie <> Lisieux','000000',56347,3
