@@ -26,10 +26,10 @@
 27,'27','UdeS <> Val-Du-Lac','A6D514',1605,3
 28,'28','Alexander - Galt / Beattie / Atto <> U Bishop''S','F66BB4',1606,3
 29,'29','King - Wellington <> UdeS','0671B0',1607,3
-36,'36','Carref Estrie <> Plaza O','9C0056',1635,3
+36,'36','Carref Estrie <> Plaza Ouest','9C0056',1635,3
 50,'50','Carref Estrie <> Val-Des-Arbres / Laliberté','FF7F00',1691,3
 51,'51','Kruger <> Station Du Cégep','40A629',1692,3
-52,'52','Plaza O <> Av Parc','00B1B0',1693,3
+52,'52','Plaza Ouest <> Av Parc','00B1B0',1693,3
 55,'55','13e Av - 24-Juin <> Manoir','005F27',1696,3
 57,'57','13e Av - 24-Juin <> Carref Estrie','74CBE0',1698,3
 401,'401','CHUS-Fleurimont <> Stat Gaspé','2C516A',51509,3
@@ -44,7 +44,7 @@
 604,'604','CHUS - Fleurimont <> STS (Roy / Cabana)','FA7268',53434,3
 605,'605','Habitat / André <> STS (Roy / Cabana)','FA7268',53435,3
 606,'606','U Bishop''S <> STS (Roy / Cabana)','FA7268',53436,3
-607,'607','STS (Roy / Cabana) <> Plaza O','FA7268',53437,3
+607,'607','STS (Roy / Cabana) <> Plaza Ouest','FA7268',53437,3
 608,'608','King E / Raby <> STS (Roy / Cabana)','FA7268',53438,3
 903,'903','Ind - Ston Cégep <> Carref Estrie','000000',56316,3
 904,'904','Raby <> Station Du Cégep','000000',56317,3
@@ -55,4 +55,4 @@
 917,'917','Carref / Cégep <> Pl Dussault','000000',56351,3
 918,'918','UdeS <> Place Dussault','000000',56352,3
 919,'919','Ston Cégep <> Lisieux - Lachine','000000',56353,3
-24000800,'X800','King E - Raby <> Plaza O','00434B',2676960,3
+24000800,'X800','King Est - Raby <> Plaza Ouest','00434B',2676960,3
